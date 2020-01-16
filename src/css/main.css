@@ -1,0 +1,188 @@
+a {
+  color: #4c4c4c;
+  transition: .2s;
+}
+
+a:hover {
+  color: #ca4350;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+  width: 920px;
+  height: auto;
+}
+
+.left {
+  font-size: 14px;
+  z-index: 100;
+  width: 100px;
+  position: fixed;
+  left: 0;
+  height: 100%;
+  overflow: scroll;
+  background: #e3e4e5;
+}
+
+.left .left-header {
+  position: fixed !important;
+  width: 100px;
+  background: #d2d2d2;
+}
+
+.left ul {
+  margin-top: 18px;
+}
+
+.left ul li {
+  margin: 4px 0;
+}
+
+.right {
+  margin-left: 100px;
+  box-sizing: border-box;
+  width: calc(100% - 100px);
+}
+
+.right .container {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.right .container header {
+  height: 30px;
+  width: 100%;
+  background: rgba(200, 200, 200, 0.2);
+  position: fixed;
+  top: 0;
+}
+
+.right .container header .header-wrapper {
+  height: auto;
+  width: 920px;
+  margin: 0 auto;
+  line-height: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.right .container header .header-wrapper .header-right ul {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+}
+
+.right .container .top-image {
+  background-image: url(../images/topimage.jpg);
+  background-size: cover;
+  margin-top: 30px;
+  height: 550px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.right .container .top-image h1 {
+  font-family: 'Girassol', cursive;
+  font-size: 46px;
+  color: #fff;
+  text-shadow: 0 0 20px rgba(227, 123, 137, 0.4), 0 0 50px rgba(0, 0, 0, 0.8);
+}
+
+.right .container .top-image p {
+  font-family: 'Sawarabi Gothic', sans-serif;
+  margin-top: 5px;
+  color: #f5f5f5;
+  text-shadow: 0 0 20px rgba(227, 123, 137, 0.4), 0 0 50px rgba(0, 0, 0, 0.8);
+}
+
+.right .container .description {
+  text-align: center;
+  margin: 30px auto 0 auto;
+}
+
+.right .container .description h1 {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.right .container .description p {
+  margin: 0 auto;
+  width: 50%;
+}
+
+header {
+  height: 30px;
+  width: 100%;
+  background: rgba(200, 200, 200, 0.2);
+  position: fixed;
+  top: 0;
+}
+
+header .header-wrapper {
+  height: auto;
+  width: 920px;
+  margin: 0 auto;
+  line-height: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+header .header-wrapper .header-right ul {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+}
+
+.container .form-wrapper {
+  border: 1px solid #e6e6e6;
+  background: #fdfffc;
+  margin: 150px auto 0 auto;
+  width: 30%;
+  height: auto;
+}
+
+.container .form-wrapper .to_signup {
+  font-size: 14px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+
+.container .form-wrapper .to_signup a {
+  font-weight: bold;
+}
+
+.container .form-wrapper h1 {
+  text-align: center;
+  font-size: 24px;
+  margin: 15px 0;
+}
+
+.container .form-wrapper form {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+}
+
+.container .form-wrapper form label {
+  margin: 0 auto;
+}
+
+.container .form-wrapper form label input {
+  font-size: 18px;
+  margin-bottom: 15px;
+}

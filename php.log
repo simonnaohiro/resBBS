@@ -1,0 +1,871 @@
+[07-Jan-2020 08:34:21 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:34:21 UTC] デバッグ:ユーザー登録ページ
+[07-Jan-2020 08:34:21 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:34:21 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[07-Jan-2020 08:34:21 UTC] デバッグ:セッションID:1o0evuqqi53plljfi727p8ggn2
+[07-Jan-2020 08:34:21 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[07-Jan-2020 08:34:21 UTC] デバッグ:現在日時スタンプ:1578386061
+[07-Jan-2020 08:34:21 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[07-Jan-2020 08:34:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function dbConnect(), 0 passed in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 93 and exactly 1 expected in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php:122
+Stack trace:
+#0 /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php(93): dbConnect()
+#1 /Applications/MAMP/htdocs/res_BBS/pages/signup.php(23): validDubEmail('aoaoaoa@icon.c')
+#2 {main}
+  thrown in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 122
+[07-Jan-2020 08:34:22 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:34:22 UTC] デバッグ:ユーザー登録ページ
+[07-Jan-2020 08:34:22 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:34:22 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[07-Jan-2020 08:34:22 UTC] デバッグ:セッションID:ihfo3aihaie9icfuk9m8qqkkmu
+[07-Jan-2020 08:34:22 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[07-Jan-2020 08:34:22 UTC] デバッグ:現在日時スタンプ:1578386062
+[07-Jan-2020 08:34:22 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[07-Jan-2020 08:34:29 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:34:29 UTC] デバッグ:ユーザー登録ページ
+[07-Jan-2020 08:34:29 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:34:29 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[07-Jan-2020 08:34:29 UTC] デバッグ:セッションID:4q1eg3a7msa8cb94nkqk7bodpg
+[07-Jan-2020 08:34:29 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[07-Jan-2020 08:34:29 UTC] デバッグ:現在日時スタンプ:1578386069
+[07-Jan-2020 08:34:29 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[07-Jan-2020 08:34:29 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function dbConnect(), 0 passed in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 93 and exactly 1 expected in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php:122
+Stack trace:
+#0 /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php(93): dbConnect()
+#1 /Applications/MAMP/htdocs/res_BBS/pages/signup.php(23): validDubEmail('katarogu@i.com')
+#2 {main}
+  thrown in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 122
+[07-Jan-2020 08:37:38 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:37:38 UTC] デバッグ:ユーザー登録ページ
+[07-Jan-2020 08:37:38 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:37:38 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[07-Jan-2020 08:37:38 UTC] デバッグ:セッションID:uritdeecqegjqvj6o727jlkju4
+[07-Jan-2020 08:37:38 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[07-Jan-2020 08:37:38 UTC] デバッグ:現在日時スタンプ:1578386258
+[07-Jan-2020 08:37:38 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[07-Jan-2020 08:39:24 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:39:24 UTC] デバッグ:ユーザー登録ページ
+[07-Jan-2020 08:39:24 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:39:24 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[07-Jan-2020 08:39:24 UTC] デバッグ:セッションID:stq24rpchb5o6m08hju536vh7b
+[07-Jan-2020 08:39:24 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[07-Jan-2020 08:39:24 UTC] デバッグ:現在日時スタンプ:1578386364
+[07-Jan-2020 08:39:24 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[07-Jan-2020 08:39:33 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:39:33 UTC] デバッグ:ユーザー登録ページ
+[07-Jan-2020 08:39:33 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[07-Jan-2020 08:39:33 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[07-Jan-2020 08:39:33 UTC] デバッグ:セッションID:sq6etmqm9rvph3tm9kljcis5em
+[07-Jan-2020 08:39:33 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[07-Jan-2020 08:39:33 UTC] デバッグ:現在日時スタンプ:1578386373
+[07-Jan-2020 08:39:33 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[07-Jan-2020 08:39:33 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:11:14 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:11:14 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:11:14 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:11:14 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:11:14 UTC] デバッグ:セッションID:gbalpp23kpel4kbtnhd5mjvvhr
+[08-Jan-2020 03:11:14 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:11:14 UTC] デバッグ:現在日時スタンプ:1578453074
+[08-Jan-2020 03:11:14 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:11:14 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:16:06 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:16:06 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:16:06 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:16:06 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:16:06 UTC] デバッグ:セッションID:3h4ecsbg6928fo7kv8l0n21tsj
+[08-Jan-2020 03:16:06 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:16:06 UTC] デバッグ:現在日時スタンプ:1578453366
+[08-Jan-2020 03:16:06 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:16:06 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:16:10 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:16:10 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:16:10 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:16:10 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:16:10 UTC] デバッグ:セッションID:9q2ucgbe2p787hdvujocuugh88
+[08-Jan-2020 03:16:10 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:16:10 UTC] デバッグ:現在日時スタンプ:1578453370
+[08-Jan-2020 03:16:10 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:16:10 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:16:37 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:16:37 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:16:37 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:16:37 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:16:37 UTC] デバッグ:セッションID:3ft581u1isqp8spght8np0h5fh
+[08-Jan-2020 03:16:37 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:16:37 UTC] デバッグ:現在日時スタンプ:1578453397
+[08-Jan-2020 03:16:37 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:16:37 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:17:07 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:17:07 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:17:07 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:17:07 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:17:07 UTC] デバッグ:セッションID:lv6mq5o53p719rfiifmr11el2d
+[08-Jan-2020 03:17:07 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:17:07 UTC] デバッグ:現在日時スタンプ:1578453427
+[08-Jan-2020 03:17:07 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:17:07 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:17:09 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:17:09 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:17:09 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:17:09 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:17:09 UTC] デバッグ:セッションID:mu3lan39010gkges9iguljr4m3
+[08-Jan-2020 03:17:09 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:17:09 UTC] デバッグ:現在日時スタンプ:1578453429
+[08-Jan-2020 03:17:09 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:17:13 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:17:13 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:17:13 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:17:13 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:17:13 UTC] デバッグ:セッションID:nj4j61f31qo5lbuom1e159m714
+[08-Jan-2020 03:17:13 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:17:13 UTC] デバッグ:現在日時スタンプ:1578453433
+[08-Jan-2020 03:17:13 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:17:22 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:17:22 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:17:22 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:17:22 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:17:22 UTC] デバッグ:セッションID:mrqfdf2john126mmaa4nn3upp4
+[08-Jan-2020 03:17:22 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:17:22 UTC] デバッグ:現在日時スタンプ:1578453442
+[08-Jan-2020 03:17:22 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:17:22 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:32:53 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:32:53 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:32:53 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:32:53 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:32:53 UTC] デバッグ:セッションID:kigqn73q624opkusf94c8ju2md
+[08-Jan-2020 03:32:53 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:32:53 UTC] デバッグ:現在日時スタンプ:1578454373
+[08-Jan-2020 03:32:53 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:32:53 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:32:53 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 03:32:54 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:32:54 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:32:54 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:32:54 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:32:54 UTC] デバッグ:セッションID:ajddrcub0v87ucjquh0updtjbh
+[08-Jan-2020 03:32:54 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:32:54 UTC] デバッグ:現在日時スタンプ:1578454374
+[08-Jan-2020 03:32:54 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:32:54 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:32:54 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 03:32:55 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:32:55 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:32:55 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:32:55 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:32:55 UTC] デバッグ:セッションID:bbd1u3stf67dg2k07tifra1cl2
+[08-Jan-2020 03:32:55 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:32:55 UTC] デバッグ:現在日時スタンプ:1578454375
+[08-Jan-2020 03:32:55 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:32:55 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:32:55 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 03:33:18 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:33:18 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:33:18 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:33:18 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:33:18 UTC] デバッグ:セッションID:pm8i5lb018asfj30r80enemrtr
+[08-Jan-2020 03:33:18 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:33:18 UTC] デバッグ:現在日時スタンプ:1578454398
+[08-Jan-2020 03:33:18 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:33:18 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:33:18 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 03:33:20 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:33:20 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:33:20 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:33:20 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:33:20 UTC] デバッグ:セッションID:u75n3b0ckpqco1h6gg745k9dd5
+[08-Jan-2020 03:33:20 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:33:20 UTC] デバッグ:現在日時スタンプ:1578454400
+[08-Jan-2020 03:33:20 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:33:20 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:33:20 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 03:33:28 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:33:28 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 03:33:28 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 03:33:28 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 03:33:28 UTC] デバッグ:セッションID:44sovpkgc5boubsodc56tphefd
+[08-Jan-2020 03:33:28 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 03:33:28 UTC] デバッグ:現在日時スタンプ:1578454408
+[08-Jan-2020 03:33:28 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 03:33:28 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 03:33:28 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 05:42:24 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:42:24 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 05:42:24 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:42:24 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 05:42:24 UTC] デバッグ:セッションID:due7fhjt225pp0knkoja3egine
+[08-Jan-2020 05:42:24 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 05:42:24 UTC] デバッグ:現在日時スタンプ:1578462144
+[08-Jan-2020 05:42:24 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 05:47:08 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:47:08 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 05:47:08 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:47:08 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 05:47:08 UTC] デバッグ:セッションID:ceimhbgd1cpqb4lvjmv4sth95v
+[08-Jan-2020 05:47:08 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 05:47:08 UTC] デバッグ:現在日時スタンプ:1578462428
+[08-Jan-2020 05:47:08 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 05:47:12 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:47:12 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 05:47:12 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:47:12 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 05:47:12 UTC] デバッグ:セッションID:91cenr31am0fmp4cbjdgo7t73s
+[08-Jan-2020 05:47:12 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 05:47:12 UTC] デバッグ:現在日時スタンプ:1578462432
+[08-Jan-2020 05:47:12 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 05:55:35 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:55:35 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 05:55:35 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:55:35 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 05:55:35 UTC] デバッグ:セッションID:vb7b1iscubdqu0dmmcc4okvrbm
+[08-Jan-2020 05:55:35 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 05:55:35 UTC] デバッグ:現在日時スタンプ:1578462935
+[08-Jan-2020 05:55:35 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 05:55:56 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:55:56 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 05:55:56 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:55:56 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 05:55:56 UTC] デバッグ:セッションID:evltnctrti5erlpd9lfeunoui0
+[08-Jan-2020 05:55:56 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 05:55:56 UTC] デバッグ:現在日時スタンプ:1578462956
+[08-Jan-2020 05:55:56 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 05:56:01 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:56:01 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 05:56:01 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:56:01 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 05:56:01 UTC] デバッグ:セッションID:1a2mpqv08kuqmmk0j1ailuc1l4
+[08-Jan-2020 05:56:01 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 05:56:01 UTC] デバッグ:現在日時スタンプ:1578462961
+[08-Jan-2020 05:56:01 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 05:56:02 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:56:02 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 05:56:02 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:56:02 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 05:56:02 UTC] デバッグ:セッションID:vl8puet08nndkibvai9rbc4fn4
+[08-Jan-2020 05:56:02 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 05:56:02 UTC] デバッグ:現在日時スタンプ:1578462962
+[08-Jan-2020 05:56:02 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 05:56:16 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:56:16 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 05:56:16 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 05:56:16 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 05:56:16 UTC] デバッグ:セッションID:apv3452gig02gpsm36om2kct7n
+[08-Jan-2020 05:56:16 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 05:56:16 UTC] デバッグ:現在日時スタンプ:1578462976
+[08-Jan-2020 05:56:16 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 05:56:16 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 05:56:16 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 09:11:35 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:11:35 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 09:11:35 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:11:35 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 09:11:35 UTC] デバッグ:セッションID:lceet21ajmh39mnc8gihn89ro2
+[08-Jan-2020 09:11:35 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 09:11:35 UTC] デバッグ:現在日時スタンプ:1578474695
+[08-Jan-2020 09:11:35 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 09:11:35 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 09:11:35 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 09:35:33 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:35:33 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 09:35:33 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:35:33 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 09:35:33 UTC] デバッグ:セッションID:3puul7jc4f6j3gfh2ofaa6sntv
+[08-Jan-2020 09:35:33 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 09:35:33 UTC] デバッグ:現在日時スタンプ:1578476133
+[08-Jan-2020 09:35:33 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 09:35:33 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[08-Jan-2020 09:35:33 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[08-Jan-2020 09:35:37 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:35:37 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 09:35:37 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:35:37 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 09:35:37 UTC] デバッグ:セッションID:5g9fqnbobp6iofbdi350019bp1
+[08-Jan-2020 09:35:37 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 09:35:37 UTC] デバッグ:現在日時スタンプ:1578476137
+[08-Jan-2020 09:35:37 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 09:35:44 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:35:44 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 09:35:44 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:35:44 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 09:35:44 UTC] デバッグ:セッションID:7raofgpjqm95oi4h4bd17091kn
+[08-Jan-2020 09:35:44 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 09:35:44 UTC] デバッグ:現在日時スタンプ:1578476144
+[08-Jan-2020 09:35:44 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 09:35:44 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 09:35:44 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 09:50:14 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:50:14 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 09:50:14 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:50:14 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 09:50:14 UTC] デバッグ:セッションID:idenflavdqn7vb4subbafra2t6
+[08-Jan-2020 09:50:14 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 09:50:14 UTC] デバッグ:現在日時スタンプ:1578477014
+[08-Jan-2020 09:50:14 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 09:50:14 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 09:50:14 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 09:50:14 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[08-Jan-2020 09:50:14 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[08-Jan-2020 09:50:16 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:50:16 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 09:50:16 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:50:16 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 09:50:16 UTC] デバッグ:セッションID:ic09n1v9r0tgtdsn2srknr88m5
+[08-Jan-2020 09:50:16 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 09:50:16 UTC] デバッグ:現在日時スタンプ:1578477016
+[08-Jan-2020 09:50:16 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 09:50:31 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:50:31 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 09:50:31 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:50:31 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 09:50:31 UTC] デバッグ:セッションID:4pefks4ikhakek5hab2lmt7524
+[08-Jan-2020 09:50:31 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 09:50:31 UTC] デバッグ:現在日時スタンプ:1578477031
+[08-Jan-2020 09:50:31 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 09:50:31 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 09:50:31 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 09:50:31 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[08-Jan-2020 09:50:31 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[08-Jan-2020 09:57:04 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:57:04 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 09:57:04 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:57:04 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 09:57:04 UTC] デバッグ:セッションID:6i2958hdgia9girllccr8pqvis
+[08-Jan-2020 09:57:04 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 09:57:04 UTC] デバッグ:現在日時スタンプ:1578477424
+[08-Jan-2020 09:57:04 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 09:57:04 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 09:57:04 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 09:57:04 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[08-Jan-2020 09:57:04 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[08-Jan-2020 09:57:13 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:57:13 UTC] デバッグ:ユーザー登録ページ
+[08-Jan-2020 09:57:13 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[08-Jan-2020 09:57:13 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[08-Jan-2020 09:57:13 UTC] デバッグ:セッションID:51jb13sk4fp0u8uo2a8rmmc8g8
+[08-Jan-2020 09:57:13 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[08-Jan-2020 09:57:13 UTC] デバッグ:現在日時スタンプ:1578477433
+[08-Jan-2020 09:57:13 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[08-Jan-2020 09:57:13 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[08-Jan-2020 09:57:13 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[08-Jan-2020 09:57:13 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[08-Jan-2020 09:57:13 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[09-Jan-2020 04:59:27 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 04:59:27 UTC] デバッグ:ユーザー登録ページ
+[09-Jan-2020 04:59:27 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 04:59:27 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[09-Jan-2020 04:59:27 UTC] デバッグ:セッションID:anlh89epald4360eu0n5toqbns
+[09-Jan-2020 04:59:27 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[09-Jan-2020 04:59:27 UTC] デバッグ:現在日時スタンプ:1578545967
+[09-Jan-2020 04:59:27 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[09-Jan-2020 04:59:27 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[09-Jan-2020 04:59:27 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[09-Jan-2020 04:59:27 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[09-Jan-2020 04:59:27 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[09-Jan-2020 05:12:21 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:12:21 UTC] デバッグ:ユーザー登録ページ
+[09-Jan-2020 05:12:21 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:12:21 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[09-Jan-2020 05:12:21 UTC] デバッグ:セッションID:ofkmttbqm3qq78qkhedkqb7ons
+[09-Jan-2020 05:12:21 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[09-Jan-2020 05:12:21 UTC] デバッグ:現在日時スタンプ:1578546741
+[09-Jan-2020 05:12:21 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[09-Jan-2020 05:12:21 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[09-Jan-2020 05:12:21 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[09-Jan-2020 05:12:21 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[09-Jan-2020 05:12:21 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[09-Jan-2020 05:13:01 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:13:01 UTC] デバッグ:ユーザー登録ページ
+[09-Jan-2020 05:13:01 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:13:01 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[09-Jan-2020 05:13:01 UTC] デバッグ:セッションID:ucaldrv8jp7bt7cqhil2b087j1
+[09-Jan-2020 05:13:01 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[09-Jan-2020 05:13:01 UTC] デバッグ:現在日時スタンプ:1578546781
+[09-Jan-2020 05:13:01 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[09-Jan-2020 05:13:01 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[09-Jan-2020 05:13:01 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[09-Jan-2020 05:13:01 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[09-Jan-2020 05:13:01 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[09-Jan-2020 05:13:02 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:13:02 UTC] デバッグ:ユーザー登録ページ
+[09-Jan-2020 05:13:02 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:13:02 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[09-Jan-2020 05:13:02 UTC] デバッグ:セッションID:kb0q2071n20p035dt46sgfi96e
+[09-Jan-2020 05:13:02 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[09-Jan-2020 05:13:02 UTC] デバッグ:現在日時スタンプ:1578546782
+[09-Jan-2020 05:13:02 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[09-Jan-2020 05:13:02 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[09-Jan-2020 05:13:02 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[09-Jan-2020 05:13:02 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[09-Jan-2020 05:13:02 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[09-Jan-2020 05:13:03 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:13:03 UTC] デバッグ:ユーザー登録ページ
+[09-Jan-2020 05:13:03 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:13:03 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[09-Jan-2020 05:13:03 UTC] デバッグ:セッションID:o799udp51sjj7hackguj29aqg1
+[09-Jan-2020 05:13:03 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[09-Jan-2020 05:13:03 UTC] デバッグ:現在日時スタンプ:1578546783
+[09-Jan-2020 05:13:03 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[09-Jan-2020 05:13:03 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[09-Jan-2020 05:13:03 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[09-Jan-2020 05:13:03 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[09-Jan-2020 05:13:03 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[09-Jan-2020 05:13:05 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:13:05 UTC] デバッグ:ユーザー登録ページ
+[09-Jan-2020 05:13:05 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:13:05 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[09-Jan-2020 05:13:05 UTC] デバッグ:セッションID:a7v02opcjp2gj5f7ovecejor0h
+[09-Jan-2020 05:13:05 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[09-Jan-2020 05:13:05 UTC] デバッグ:現在日時スタンプ:1578546785
+[09-Jan-2020 05:13:05 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[09-Jan-2020 05:13:05 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[09-Jan-2020 05:13:05 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[09-Jan-2020 05:13:05 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[09-Jan-2020 05:13:05 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[09-Jan-2020 05:13:13 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:13:13 UTC] デバッグ:ユーザー登録ページ
+[09-Jan-2020 05:13:13 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 05:13:13 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[09-Jan-2020 05:13:13 UTC] デバッグ:セッションID:eg623bb4kl87v6jg6tijn320iv
+[09-Jan-2020 05:13:13 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[09-Jan-2020 05:13:13 UTC] デバッグ:現在日時スタンプ:1578546793
+[09-Jan-2020 05:13:13 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[09-Jan-2020 05:13:13 UTC] エラー発生SQLSTATE[HY000] [1045] Access denied for user 'simon'@'localhost' (using password: YES)
+[09-Jan-2020 05:13:13 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[09-Jan-2020 05:13:13 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[09-Jan-2020 05:13:13 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[09-Jan-2020 08:17:03 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 08:17:03 UTC] デバッグ:ユーザー登録ページ
+[09-Jan-2020 08:17:03 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 08:17:03 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[09-Jan-2020 08:17:03 UTC] デバッグ:セッションID:d73gifg5omset3bltpdmp17m3o
+[09-Jan-2020 08:17:03 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1577755076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[09-Jan-2020 08:17:03 UTC] デバッグ:現在日時スタンプ:1578557823
+[09-Jan-2020 08:17:03 UTC] デバッグ:ログイン期日日時タイムスタンプ:1580347076
+[09-Jan-2020 10:46:28 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 10:46:28 UTC] デバッグ:ユーザー登録ページ
+[09-Jan-2020 10:46:28 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 10:46:28 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[09-Jan-2020 10:46:28 UTC] デバッグ:セッションID:1jvoerlo3792a1jrii1q54m6cu
+[09-Jan-2020 10:46:28 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1578566749
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[09-Jan-2020 10:46:28 UTC] デバッグ:現在日時スタンプ:1578566788
+[09-Jan-2020 10:46:28 UTC] デバッグ:ログイン期日日時タイムスタンプ:1578570349
+[09-Jan-2020 10:46:28 UTC] デバッグ:クエリ成功
+[09-Jan-2020 10:46:28 UTC] PHP Warning:  Illegal string offset 'email' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[09-Jan-2020 10:46:28 UTC] PHP Warning:  Illegal string offset 'pass' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[09-Jan-2020 10:46:28 UTC] PHP Warning:  Illegal string offset 'pass_re' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[09-Jan-2020 10:47:53 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 10:47:53 UTC] デバッグ:ユーザー登録ページ
+[09-Jan-2020 10:47:53 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[09-Jan-2020 10:47:53 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[09-Jan-2020 10:47:53 UTC] デバッグ:セッションID:m3kh7id7bnknlphin47iakp5hm
+[09-Jan-2020 10:47:53 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1578566749
+    [login_limit] => 3600
+    [user_id] => 6
+)
+
+[09-Jan-2020 10:47:53 UTC] デバッグ:現在日時スタンプ:1578566873
+[09-Jan-2020 10:47:53 UTC] デバッグ:ログイン期日日時タイムスタンプ:1578570349
+[09-Jan-2020 10:47:53 UTC] デバッグ:クエリ成功
+[09-Jan-2020 10:47:53 UTC] PHP Warning:  Illegal string offset 'email' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[09-Jan-2020 10:47:53 UTC] PHP Warning:  Illegal string offset 'pass' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[09-Jan-2020 10:47:53 UTC] PHP Warning:  Illegal string offset 'pass_re' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[10-Jan-2020 05:44:43 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 05:44:43 UTC] デバッグ:ユーザー登録ページ
+[10-Jan-2020 05:44:43 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 05:44:43 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[10-Jan-2020 05:44:43 UTC] デバッグ:セッションID:bpca82k4piv0fbid2qgc9b6958
+[10-Jan-2020 05:44:43 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[10-Jan-2020 05:44:43 UTC] デバッグ:現在日時スタンプ:1578635083
+[10-Jan-2020 05:44:43 UTC] デバッグ:クエリ成功
+[10-Jan-2020 05:44:43 UTC] PHP Warning:  Illegal string offset 'email' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 87
+[10-Jan-2020 05:44:43 UTC] PHP Warning:  Illegal string offset 'pass' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 91
+[10-Jan-2020 05:44:43 UTC] PHP Warning:  Illegal string offset 'pass_re' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 95
+[10-Jan-2020 05:51:38 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 05:51:38 UTC] デバッグ:ユーザー登録ページ
+[10-Jan-2020 05:51:38 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 05:51:38 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[10-Jan-2020 05:51:38 UTC] デバッグ:セッションID:3jhsi4f5vd53maud07dg2i0tkg
+[10-Jan-2020 05:51:38 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[10-Jan-2020 05:51:38 UTC] デバッグ:現在日時スタンプ:1578635498
+[10-Jan-2020 05:51:38 UTC] デバッグ:クエリ成功
+[10-Jan-2020 05:51:38 UTC] PHP Warning:  Illegal string offset 'email' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 88
+[10-Jan-2020 05:51:38 UTC] PHP Warning:  Illegal string offset 'pass' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 92
+[10-Jan-2020 05:51:38 UTC] PHP Warning:  Illegal string offset 'pass_re' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 96
+[10-Jan-2020 05:56:02 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 05:56:02 UTC] デバッグ:ユーザー登録ページ
+[10-Jan-2020 05:56:02 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 05:56:02 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[10-Jan-2020 05:56:02 UTC] デバッグ:セッションID:bpqemoe7b5aoh9o9fffj4mrptl
+[10-Jan-2020 05:56:02 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[10-Jan-2020 05:56:02 UTC] デバッグ:現在日時スタンプ:1578635762
+[10-Jan-2020 05:56:02 UTC] デバッグ:クエリ成功
+[10-Jan-2020 05:56:02 UTC] PHP Warning:  Illegal string offset 'email' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 89
+[10-Jan-2020 05:56:02 UTC] PHP Warning:  Illegal string offset 'pass' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 93
+[10-Jan-2020 05:56:02 UTC] PHP Warning:  Illegal string offset 'pass_re' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 97
+[10-Jan-2020 08:03:38 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:03:38 UTC] デバッグ:ユーザー登録ページ
+[10-Jan-2020 08:03:38 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:03:38 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[10-Jan-2020 08:03:38 UTC] デバッグ:セッションID:jig694gomjem3c6kbbkd035s54
+[10-Jan-2020 08:03:38 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[10-Jan-2020 08:03:38 UTC] デバッグ:現在日時スタンプ:1578643418
+[10-Jan-2020 08:03:38 UTC] デバッグ:クエリ成功
+[10-Jan-2020 08:03:38 UTC] PHP Warning:  Illegal string offset 'email' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 89
+[10-Jan-2020 08:03:38 UTC] PHP Warning:  Illegal string offset 'pass' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 93
+[10-Jan-2020 08:03:38 UTC] PHP Warning:  Illegal string offset 'pass_re' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 97
+[10-Jan-2020 08:03:39 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:03:39 UTC] デバッグ:ユーザー登録ページ
+[10-Jan-2020 08:03:39 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:03:39 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[10-Jan-2020 08:03:39 UTC] デバッグ:セッションID:kjvra8kdecrabs4a702srgl1fd
+[10-Jan-2020 08:03:39 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[10-Jan-2020 08:03:39 UTC] デバッグ:現在日時スタンプ:1578643419
+[10-Jan-2020 08:03:47 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:03:47 UTC] デバッグ:ユーザー登録ページ
+[10-Jan-2020 08:03:47 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:03:47 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[10-Jan-2020 08:03:47 UTC] デバッグ:セッションID:48ajs3reqqf65pbhna2a16ebjt
+[10-Jan-2020 08:03:47 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[10-Jan-2020 08:03:47 UTC] デバッグ:現在日時スタンプ:1578643427
+[10-Jan-2020 08:03:47 UTC] デバッグ:クエリ成功
+[10-Jan-2020 08:03:47 UTC] PHP Notice:  Undefined index: pass in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 93
+[10-Jan-2020 08:03:47 UTC] PHP Notice:  Undefined index: pass_re in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 97
+[10-Jan-2020 08:04:10 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:04:10 UTC] デバッグ:ユーザー登録ページ
+[10-Jan-2020 08:04:10 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:04:10 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[10-Jan-2020 08:04:10 UTC] デバッグ:セッションID:644d0rprp9ipf9734f528e3hp0
+[10-Jan-2020 08:04:10 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[10-Jan-2020 08:04:10 UTC] デバッグ:現在日時スタンプ:1578643450
+[10-Jan-2020 08:04:10 UTC] デバッグ:クエリ成功
+[10-Jan-2020 08:04:10 UTC] PHP Warning:  Illegal string offset 'email' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 89
+[10-Jan-2020 08:04:10 UTC] PHP Warning:  Illegal string offset 'pass' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 93
+[10-Jan-2020 08:04:10 UTC] PHP Warning:  Illegal string offset 'pass_re' in /Applications/MAMP/htdocs/res_BBS/pages/signup.php on line 97
+[10-Jan-2020 08:05:05 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:05:05 UTC] デバッグ:ユーザー登録ページ
+[10-Jan-2020 08:05:05 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:05:05 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[10-Jan-2020 08:05:05 UTC] デバッグ:セッションID:abml9dpv4gjbml61jnhtjsaict
+[10-Jan-2020 08:05:05 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[10-Jan-2020 08:05:05 UTC] デバッグ:現在日時スタンプ:1578643505
+[10-Jan-2020 08:05:13 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:05:13 UTC] デバッグ:ユーザー登録ページ
+[10-Jan-2020 08:05:13 UTC] デバッグ:「「「「「「「「「「「「「「「「
+[10-Jan-2020 08:05:13 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[10-Jan-2020 08:05:13 UTC] デバッグ:セッションID:9vbgv9kmblfc5uq0bp3ccrjacr
+[10-Jan-2020 08:05:13 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[10-Jan-2020 08:05:13 UTC] デバッグ:現在日時スタンプ:1578643513
+[10-Jan-2020 08:05:13 UTC] デバッグ:クエリ成功
+[10-Jan-2020 08:05:14 UTC] デバッグ:クエリ成功
+[10-Jan-2020 08:05:14 UTC] デバッグ:セッション変数の中:Array
+(
+    [login_date] => 1578643514
+    [login_limit] => 3600
+    [user_id] => 7
+)
+
