@@ -149,7 +149,7 @@ function queryPost($dbh, $sql, $data){
   debug('クエリ成功');
   return $stmt;
 }
-
+//ユーザー取得
 function getUser(){
   debug('ユーザーを取得します');
   try{
@@ -168,7 +168,9 @@ function getUser(){
     error_log('エラー発生:'.$e->getMessage());
   }
 }
-
+//===================
+//掲示板関数
+//===================
 function makeRandId($length = 9){
   static $chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJLKMNOPQRSTUVWXYZ0123456789';
   $str = "";
@@ -178,11 +180,107 @@ function makeRandId($length = 9){
   return $str;
 }
 
-function makeRandThreadId($length = 14){
+function makeThreadRandId($length = 14){
   static $chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJLKMNOPQRSTUVWXYZ0123456789';
   $str = "";
   for ($i = 0; $i < $length; $i++) {
     $str .= $chars[mt_rand(0,61)];
   }
   return $str;
+}
+//スレッド取得関数
+function getThread(){
+  debug('全データを取得');
+  try{
+    $dbh = dbConnect();
+    // $sql = 'SELECT * FROM DBA_TABLES ORDER BY OWNER,TABLE_NAME';
+    $sql = 'SHOW TABLES';
+    $data = array();
+    $stmt = queryPost($dbh, $sql, $data);
+
+    if($stmt){
+      return $stmt->fetchAll();
+    }else{
+      return false;
+    }
+  } catch (Exception $e){
+    error_log('エラー発生' . $e->getMessege());
+  }
+}
+//コメント取得関数
+function getComment($tableName){
+  debug('書き込みを取得します');
+  try{
+    //connect to DB
+    $dbh = dbConnect();
+    //set the SQL
+    $sql = 'SELECT * FROM '.$tableName;
+    $data = array();
+    //do the query
+    $stmt = queryPost($dbh, $sql, $data);
+
+    if($stmt){
+      //クエリ結果の全データを返却
+      return $stmt->fetchAll();
+    }else{
+      return false;
+    }
+
+  } catch(exception $e) {
+    error_log('エラー発生' . $e->getMessege());
+  }
+}
+//ページネーション関数
+function pagination($currentPageNum, $totalPageNum, $link='', $pageColNum=5){
+  //現在のページが、総ページ数と同じで総ページ数が表示項目数以上なら、左にリンクを４つ出す
+  if($currentPageNum == $totalPageNum && $totalPageNum > $pageColNum){
+    $minPageNum = $currentPageNum - 4;
+    $maxPageNum = $currentPageNum;
+    //現在のページが、総ページ数の１ページ前なら、左に３つ右に１つリンクを出す
+  }elseif($currentPageNum == ($totalPageNum - 1) && $totalPageNum >$pageColNum){
+    $minPageNum = $currentPageNum - 3;
+    $maxPageNum = $currentPageNum + 1;
+    //現在のページが２の場合は左に１つ右に３つリンクを出す
+  }elseif($currentPageNum == 2 && $totalPageNum > $pageColNum){
+    $minPageNum = $currentPageNum - 1;
+    $maxPageNum = $currentPageNum + 3;
+    //現在のページが１の場合は左には何も出さず、右に４つリンクを出す
+  }elseif($currentPageNum == 1 && $totalPageNum > $pageColNum){
+    $minPageNum = $currentPageNum;
+    $maxPageNum = 5;
+    //総ページ数が表示項目数がより少ない場合は
+  }elseif($totalPageNum < $pageColNum){
+    $minPageNum = 1;
+    $maxPageNum = $totalPageNum;
+    //それ以外は左右に２個出す
+  }else{
+    $minPageNum = $currentPageNum - 2;
+    $maxPageNum = $currentPageNum + 2;
+  }
+
+  echo '<div class="pagination">';
+    echo '<ul class="pagination-list">';
+    if($currentPageNum != 1){
+      echo '<li class="list-item"><a href="?p=1'.$link.'">&lt;</a></li>';
+    }
+    for($i = $minPageNum; $i <= $maxPageNum; $i++){
+      echo '<li class="list-item ';
+      if($currentPageNum == $i ){ echo 'active'; }
+      echo '"><a href="?p='.$i.$link.'">'.$i.'</a></li>';
+    }
+    if($currentPageNum != $maxPageNum && $maxPageNum > 1){
+      echo '<li class="list-item"><a href="?p='.$maxPageNum.$link.'">&gt;</a></li>';
+    }
+    echo '</ul>';
+  echo '</div>';
+}
+//１の位を取得する関数
+function getOnesPlaceCount($num){
+  $numLen = strlen($num) - 1;
+  $onesPlace = substr($num,$numLen,1);
+  if($onesPlace != 0){
+    return $onesPlace - 1;
+  }else{
+      return 10 - 1;
+  }
 }

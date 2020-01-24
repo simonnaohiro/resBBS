@@ -39,7 +39,7 @@ if(!empty($_POST)){
     try{
 
       //DBに接続
-      $dbh = dbConnect('resba_board');
+      $dbh = dbConnect();
       //SQL文作成(users1から削除フラグがFalseで入力されたメールアドレスと保存されたメールアドレスが)
       $sql = 'SELECT password, id FROM users1 WHERE email = :email AND delete_flg = 0';
       $data = array( ':email' => $email );

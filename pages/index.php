@@ -1,6 +1,6 @@
 <?php
 require('./functions/function.php');
-$site_title = 'ようこそ掲示板へ！'
+$site_title = 'ようこそ掲示板へ！';
 ?>
 <!DOCTYPE html>
 <html lang="ja">
@@ -12,7 +12,7 @@ $site_title = 'ようこそ掲示板へ！'
           掲示板一覧
         </div>
         <ul>
-          <li><a href="#">テスト掲示板</a></li>
+          <li><a href="board.php">テスト掲示板</a></li>
           <li><a href="#">掲示板</a></li>
           <li><a href="#">掲示板</a></li>
           <li><a href="#">掲示板</a></li>

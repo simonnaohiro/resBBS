@@ -186,3 +186,75 @@ header .header-wrapper .header-right ul {
   font-size: 18px;
   margin-bottom: 15px;
 }
+
+.board-header {
+  width: 100%;
+  text-align: center;
+  color: white;
+  background: black;
+  position: fixed;
+  height: auto;
+}
+
+.post-wrapper {
+  border: black 1px solid;
+  padding: 40px 20px 10px 20px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.post-wrapper .thread-title {
+  width: 20%;
+  min-width: 20px;
+}
+
+.post-wrapper .name-post-wrapper {
+  margin-bottom: 1px;
+  display: block;
+}
+
+.board-container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.board-container .sponsors-area {
+  height: 320px;
+  max-height: 400px;
+  min-height: 200px;
+  background: blue;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+.board-container .thread-list-area {
+  height: 300px;
+  max-height: 400px;
+  min-height: 200px;
+  background: green;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+.board-container .thread-wrapper {
+  border: 1px solid black;
+  height: auto;
+  background: #f0f0f0;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+.board-container .pagination {
+  margin: 0 auto;
+  width: 25%;
+}
+
+.board-container .pagination .pagination-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.board-container .comment-wrapper {
+  background: grey;
+}

@@ -1,6 +1,7 @@
 <?php
   require('./functions/function.php');
   require('./functions/auth.php');
+  $site_title = 'マイページ';
  ?>
 <!DOCTYPE html>
 <html lang="ja" dir="ltr">
