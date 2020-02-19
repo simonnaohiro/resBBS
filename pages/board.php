@@ -7,16 +7,12 @@
   debugLogStart();
   //スレッド作成関数
   require('./functions/create_thread_function.php');
-  // スレッド取得関数
-  // require('./functions/get_tableName_function.php');
-  //書き込み取得関数
-  require('./functions/get_comment_function.php');
 //
 // 画面表示用データ取得
 //================================
 // GETパラメータを取得
 //----------------------------------
-// カレントページ
+// 現在のページ
 $currentPageNum = (!empty($_GET['p'])) ? $_GET['p'] : 1; //デフォルトは１ページ目
 $sort = (!empty($_GET['sort'])) ? $_GET['sort'] : '';
 // パラメータに不正な値が入っているかチェック
@@ -34,9 +30,9 @@ $site_title = '掲示板にようこそ';
 //スレッドの全データ
 $getAllThread = getThread();
 //総スレッド数
-$threadNum = count($getAllThread);
+$threadCount = count($getAllThread);
 //ページネーションのリンク数
-$totalPageNum = intval(ceil($threadNum/$listSpan));
+$totalPageNum = intval(ceil($threadCount/$listSpan));
 debug('画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<');
  ?>
 <!DOCTYPE html>
@@ -51,15 +47,16 @@ debug('画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
           <section>
             <div class="sponsors-area">
               広告、またはお知らせを表示する。
+
             </div>
           </section>
           <section>
             <div class="thread-list-area">
               <?php
-              for ($i=0; $i < $threadNum; $i++) {
-                $tableName = $getAllThread[$i]['Tables_in_resba_board'];
-                $getThreadComment = getComment($tableName);
-                $threadPath = 'http://localhost:8888/resba_board/thread_template.php?tID='.$tableName;
+              for ($i=0; $i < $threadCount; $i++) {
+                $tID = $getAllThread[$i]['thread_id'];
+                $getThreadComment = getResponse($tID);
+                $threadPath = 'http://localhost:8888/res_BBS/pages/thread_template.php?tID='.$tID;
                 ?>
                 <a class="thread-heading" href="<?php echo $threadPath ?>"><?php echo $getThreadComment[0]['thread_title']; ?></a>
                 <?php
@@ -69,22 +66,20 @@ debug('画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
           </section>
           <section>
             <div class="thread-content">
+
               <?php
-              $onesPlace = getOnesPlaceCount($threadNum);
+              $onesPlace = getOnesPlaceCount($threadCount);
               $startThreadCount = ($currentPageNum - 1) * 10;
               if($currentPageNum == $totalPageNum){
                 $rpThreadCount = $startThreadCount + $onesPlace;
               }else{
                 $rpThreadCount = $startThreadCount + $listSpan;
               }
-              // var_dump($threadNum);
-              // var_dump($onesPlace);
-              // var_dump($rpThreadCount);
               for ($i=$startThreadCount; $i < $rpThreadCount; $i++) {
-                $tableName = $getAllThread[$i]['Tables_in_resba_board'];
-                $getThreadComment = getComment($tableName);
-                $threadTitle = $getThreadComment[0]['thread_title'];
-                $url = "http://localhost:8888/resba_board/thread_template.php?tID=".$tableName;
+                $tID = $getAllThread[$i]['thread_id'];
+                $threadTitle = $getAllThread[$i]['thread_title'];
+                $getThreadComment = getResponse($tID);
+                $threadPath = "http://localhost:8888/res_BBS/pages/thread_template.php?tID=".$tID;
                 ?>
               <div class="thread-wrapper">
                   <h1><?php echo $threadTitle; ?></h1>
@@ -133,23 +128,22 @@ debug('画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                   }
                   }
                    ?>
-                   <a href="<?php echo $url ?>">スレッドへ</a>
+                   <a href="<?php echo $threadPath ?>">スレッドへ</a>
                  </div>
                    <?php
                 }
                 ?>
-                </div>
+
                 <?php
                  pagination($currentPageNum,$totalPageNum);
                  ?>
-              </div>
             </div>
           </section>
         </main>
+        </div>
         <section>
           <form class="post-wrapper" action="" method="post">
-            <p><?php
-             ?></p>
+            <p></p>
             <label>
               <input class="thread_title" type="text" name="thread_title" placeholder="スレッドタイトル">
             </label>
@@ -158,7 +152,7 @@ debug('画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
               <input type="text" name="email" placeholder="Eメール">
             </label>
             <label>
-              <textarea name="chat" rows="8" cols="80"></textarea>
+              <textarea name="res" rows="8" cols="80"></textarea>
               <input type="submit" value="送信">
             </label>
           </form>

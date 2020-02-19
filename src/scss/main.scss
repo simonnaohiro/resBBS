@@ -251,3 +251,44 @@ header{
     background: grey;
   }
 }
+//thread style
+.thread-body{
+  background-image:url('../images/brick.jpg');
+  header{
+    width: 100%;
+    background: #fdfffc;
+    h1{
+      display: inline;
+      font-size: $font-size_xl;
+      margin: 0 auto;
+    }
+  }
+  .thread{
+    background: white;
+    border: black 1px solid;
+    margin: 50px auto $space_l auto;
+    width: 90%;
+    .thread-table{
+      margin: $space_m;
+      .comment-wrapper{
+        margin-bottom: $space_xl;
+        .thread-number{
+          display: flex;
+        }
+        .name-wrapper{
+          margin-bottom: $space_s;
+        }
+        .comment-box{
+          margin-left: 20px
+        }
+      }
+    }
+    .post-wrapper{
+      margin-top: $space_m;
+      .name-post-wrapper{
+        margin-bottom: 1px;
+        display: block;
+      }
+    }
+  }
+}

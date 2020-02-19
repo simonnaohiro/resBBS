@@ -258,3 +258,54 @@ header .header-wrapper .header-right ul {
 .board-container .comment-wrapper {
   background: grey;
 }
+
+.thread-body {
+  background-image: url("../images/brick.jpg");
+}
+
+.thread-body header {
+  width: 100%;
+  background: #fdfffc;
+}
+
+.thread-body header h1 {
+  display: inline;
+  font-size: 24px;
+  margin: 0 auto;
+}
+
+.thread-body .thread {
+  background: white;
+  border: black 1px solid;
+  margin: 50px auto 15px auto;
+  width: 90%;
+}
+
+.thread-body .thread .thread-table {
+  margin: 10px;
+}
+
+.thread-body .thread .thread-table .comment-wrapper {
+  margin-bottom: 20px;
+}
+
+.thread-body .thread .thread-table .comment-wrapper .thread-number {
+  display: flex;
+}
+
+.thread-body .thread .thread-table .comment-wrapper .name-wrapper {
+  margin-bottom: 5px;
+}
+
+.thread-body .thread .thread-table .comment-wrapper .comment-box {
+  margin-left: 20px;
+}
+
+.thread-body .thread .post-wrapper {
+  margin-top: 10px;
+}
+
+.thread-body .thread .post-wrapper .name-post-wrapper {
+  margin-bottom: 1px;
+  display: block;
+}

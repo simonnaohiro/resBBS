@@ -120,7 +120,7 @@ function validMatch($str1, $str2, $key){
 }
 //====DB接続関数====
 function dbConnect(){
-  $dsn = "mysql:dbname=resba_board;host=localhost;charset=utf8";
+  $dsn = "mysql:dbname=RBBS_DB;host=localhost;charset=utf8";
   $user = 'root';
   $password = 'root';
   $option = array(
@@ -188,16 +188,14 @@ function makeThreadRandId($length = 14){
   }
   return $str;
 }
-//スレッド取得関数
+//スレッド名取得関数
 function getThread(){
   debug('全データを取得');
   try{
     $dbh = dbConnect();
-    // $sql = 'SELECT * FROM DBA_TABLES ORDER BY OWNER,TABLE_NAME';
-    $sql = 'SHOW TABLES';
+    $sql = 'SELECT thread_id, thread_title FROM test_bbs_thread_title WHERE delete_flg = 0';
     $data = array();
     $stmt = queryPost($dbh, $sql, $data);
-
     if($stmt){
       return $stmt->fetchAll();
     }else{
@@ -207,27 +205,29 @@ function getThread(){
     error_log('エラー発生' . $e->getMessege());
   }
 }
-//コメント取得関数
-function getComment($tableName){
-  debug('書き込みを取得します');
+//コメント投稿関数
+// function postComment(){
+//   $dbh = dbConnect();
+//   $sql = 'INSERT INTO ';
+// }
+//コメント取得
+function getResponse($tID){
   try{
-    //connect to DB
     $dbh = dbConnect();
-    //set the SQL
-    $sql = 'SELECT * FROM '.$tableName;
-    $data = array();
-    //do the query
-    $stmt = queryPost($dbh, $sql, $data);
+    $sql = "SELECT t1.thread_id ,t1.thread_title, t2.res_num, t2.name, t2.email, t2.comment_val, t2.comment_date
+                  FROM test_bbs_thread_title AS t1 INNER JOIN test_bbs AS t2 ON t1.thread_id = t2.thread_id
+                  WHERE t1.thread_id IN (:thread_id)";
+    $data = array(':thread_id' => $tID);
 
+    $stmt = queryPost($dbh, $sql, $data);
     if($stmt){
-      //クエリ結果の全データを返却
       return $stmt->fetchAll();
     }else{
       return false;
     }
-
-  } catch(exception $e) {
-    error_log('エラー発生' . $e->getMessege());
+  }catch(Exception $e){
+    error_log('エラー発生:' . $e->getMessage());
+    $err_msg['common'] = MSG02;
   }
 }
 //ページネーション関数
@@ -279,8 +279,8 @@ function getOnesPlaceCount($num){
   $numLen = strlen($num) - 1;
   $onesPlace = substr($num,$numLen,1);
   if($onesPlace != 0){
-    return $onesPlace - 1;
+    return $onesPlace;
   }else{
-      return 10 - 1;
+    return 10;
   }
 }
