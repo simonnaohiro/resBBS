@@ -255,6 +255,10 @@ header .header-wrapper .header-right ul {
   justify-content: space-between;
 }
 
+.board-container .pagination .pagination-list .list-item.active {
+  font-weight: bold;
+}
+
 .board-container .comment-wrapper {
   background: grey;
 }

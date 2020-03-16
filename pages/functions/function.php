@@ -284,3 +284,21 @@ function getOnesPlaceCount($num){
     return 10;
   }
 }
+// 秒単位の数値を時間：分：秒に変換
+function getHMSTime($sec){
+  $ss = $sec % 60;
+	$mm = (int)($sec / 60) % 60;
+	$hh = (int)($sec / (60 * 60));
+	return array($hh, $mm, $ss);
+}
+//数字を再生時間に置換する関数
+function getVideoCommentTime($res_num, $timeUnit){
+  $commentTime = $res_num * $timeUnit;
+  if($commentTime > 3600){
+    list($hh,$mm,$ss) = getHMSTime($commentTime);
+    return $hh.':'.$mm.':'.$ss;
+  }else{
+    list(,$mm,$ss) = getHMSTime($commentTime);
+    return $mm.':'.$ss;
+  }
+}

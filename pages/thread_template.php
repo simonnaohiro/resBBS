@@ -9,7 +9,7 @@
   $name = ($_POST['name'] === "") ? "名無しさん" : $_POST['name'];
   $email = (isset($_POST['email'])) ? $_POST['email'] :  "" ;
   $res = (isset($_POST['res'])) ? $_POST['res'] : "" ;
-  $tID = $_GET['tID'];
+  $tID = (isset($_GET['tID'])) ? $_GET['tID'] : "" ;
   $urlParam = `http://`.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
   $getThreadComment = getResponse($tID);
   $thread_title = $getThreadComment[0]['thread_title'];

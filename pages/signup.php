@@ -79,18 +79,19 @@ if(!empty($_POST)){
     <div class="container">
       <div class="form-wrapper">
         <h1>登録</h1>
-        <form class="signup-form" method="post">
+        <form id="signup-form" class="signup-form" method="post">
           <label>
             <div class="msg_area"><p><?php if(!empty($err_msg)) echo $err_msg['email']; ?></p></div>
             <input type="text" name="email" placeholder="メールアドレス">
           </label>
           <label>
+            <button id="changePassword" type="button" name="button">パスワードを見る</button>
             <div class="msg_area"><p><?php if(!empty($err_msg)) echo $err_msg['pass']; ?></p></div>
-            <input type="text" name="pass" placeholder="パスワード">
+            <input id="changeTarget1" type="password" name="pass" placeholder="パスワード">
           </label>
           <label>
             <div class="msg_area"><p><?php if(!empty($err_msg)) echo $err_msg['pass_re']; ?></p></div>
-            <input type="text" name="pass_re" placeholder="パスワード(再入力)">
+            <input id='changeTarget2' type="password" name="pass_re" placeholder="パスワード(再入力)">
           </label>
           <label>
             <input type="submit" name="" value="送信">
@@ -98,5 +99,6 @@ if(!empty($_POST)){
         </form>
       </div>
     </div>
+    <script src="../src/js/changePass.js"></script>
   </body>
 </html>

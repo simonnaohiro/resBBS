@@ -245,6 +245,12 @@ header{
     .pagination-list{
       display: flex;
       justify-content: space-between;
+      .list-item{
+        &.active{
+          font-weight: bold;
+          // border-bottom: 1px solid #ca4350;
+        }
+      }
     }
   }
   .comment-wrapper{
