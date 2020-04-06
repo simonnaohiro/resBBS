@@ -128,6 +128,58 @@ body{
     }
   }
 }
+//mypage
+.mypage-wrapper{
+  width: 100%;
+  height: auto;
+  background: grey;
+  margin-top: 30px;
+  .mypage-header{
+    width: 100%;
+    height: 250px;
+    background: black;
+  }
+  .user-wrapper{
+    border: 2px solid blue;
+    width: 80%;
+    margin: 0 auto;
+    .user-img{
+      border-radius: 50%;
+      background: blue;
+      height: 150px;
+      width: 150px;
+      margin-left: -40px;
+      margin-top: -40px;
+    }
+    .info-wrapper{
+      display: flex;
+      justify-content: space-between;
+      .user-info{
+        margin-left: 80px;
+        h1{
+          font-size: 30px;
+          letter-spacing: -4px;
+          margin-bottom: 20px;
+        }
+        .profile{
+          height: auto;
+          min-height: 200px;
+          width: 70%;
+          .introduce{
+
+          }
+        }
+      }
+      .side-box{
+        width: 50%;
+        border: 1px solid blue;
+        margin-right: 20px;
+      }
+    }
+  }
+}
+
+
 //Signup, login form
 header{
   height: 30px;

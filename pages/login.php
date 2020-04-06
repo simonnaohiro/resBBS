@@ -41,7 +41,7 @@ if(!empty($_POST)){
       //DBに接続
       $dbh = dbConnect();
       //SQL文作成(users1から削除フラグがFalseで入力されたメールアドレスと保存されたメールアドレスが)
-      $sql = 'SELECT password, id FROM users1 WHERE email = :email AND delete_flg = 0';
+      $sql = 'SELECT password, id, user_id FROM users1 WHERE email = :email AND delete_flg = 0';
       $data = array( ':email' => $email );
       //クエリ実行
       $stmt =  queryPost($dbh, $sql, $data);
@@ -69,7 +69,7 @@ if(!empty($_POST)){
           $_SESSION['login_limit'] = $sesLimit;
         }
         //ユーザーIDを格納
-        $_SESSION['user_id'] = $result['id'];
+        $_SESSION['user_id'] = $result['user_id'];
 
         debug('セッション変数の中身:'.print_r($_SESSION,true));
         debug('マイページへ遷移します');

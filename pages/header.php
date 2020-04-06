@@ -9,7 +9,10 @@
           debug('ログイン済みのユーザーです');
           ?>
         <li><a href="index.php">TOP</a></li>
-        <li><a href="mypage.php">マイページ</a></li>
+        <?php  if($_SERVER['REQUEST_URI'] !== '/res_BBS/pages/mypage.php'){
+          ?><li><a href="mypage.php">マイページ</a></li><?php
+        } ?>
+        
         <li><a href="logout.php">ログアウト</a></li>
         <?php
         }else{

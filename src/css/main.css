@@ -122,6 +122,61 @@ body {
   width: 50%;
 }
 
+.mypage-wrapper {
+  width: 100%;
+  height: auto;
+  background: grey;
+  margin-top: 30px;
+}
+
+.mypage-wrapper .mypage-header {
+  width: 100%;
+  height: 250px;
+  background: black;
+}
+
+.mypage-wrapper .user-wrapper {
+  border: 2px solid blue;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.mypage-wrapper .user-wrapper .user-img {
+  border-radius: 50%;
+  background: blue;
+  height: 150px;
+  width: 150px;
+  margin-left: -40px;
+  margin-top: -40px;
+}
+
+.mypage-wrapper .user-wrapper .info-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mypage-wrapper .user-wrapper .info-wrapper .user-info {
+  margin-left: 80px;
+}
+
+.mypage-wrapper .user-wrapper .info-wrapper .user-info h1 {
+  font-size: 30px;
+  letter-spacing: -4px;
+  margin-bottom: 20px;
+}
+
+.mypage-wrapper .user-wrapper .info-wrapper .user-info .profile {
+  height: auto;
+  min-height: 200px;
+  width: 70%;
+}
+
+.mypage-wrapper .user-wrapper .info-wrapper .side-box {
+  width: 50%;
+  border: 1px solid blue;
+  margin-right: 20px;
+}
+
 header {
   height: 30px;
   width: 100%;

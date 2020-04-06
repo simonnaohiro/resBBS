@@ -43218,3 +43218,2110 @@ Stack trace:
 [16-Mar-2020 04:23:23 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
 [16-Mar-2020 04:23:23 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
 [16-Mar-2020 04:23:23 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[22-Mar-2020 11:04:28 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「
+[22-Mar-2020 11:04:28 UTC] デバッグ:ニコレイアウト
+[22-Mar-2020 11:04:28 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「
+[22-Mar-2020 11:04:28 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[22-Mar-2020 11:04:28 UTC] デバッグ:セッションID:9g8tsgopqg6865f88arli58u91
+[22-Mar-2020 11:04:28 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[22-Mar-2020 11:04:28 UTC] デバッグ:現在日時スタンプ:1584875068
+[22-Mar-2020 11:04:28 UTC] デバッグ:クエリ成功
+[22-Mar-2020 11:04:28 UTC] デバッグ:未ログインユーザーです
+[22-Mar-2020 11:04:28 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[22-Mar-2020 11:04:28 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 127
+[22-Mar-2020 11:04:28 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 127
+[22-Mar-2020 11:04:28 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 127
+[22-Mar-2020 11:04:28 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 127
+[22-Mar-2020 11:04:28 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 127
+[22-Mar-2020 11:04:28 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 127
+[22-Mar-2020 11:04:28 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 127
+[22-Mar-2020 11:04:28 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 127
+[22-Mar-2020 11:04:28 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 127
+[22-Mar-2020 11:04:28 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 127
+[22-Mar-2020 11:04:28 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[22-Mar-2020 11:04:28 UTC] デバッグ:「ログインページ「
+[22-Mar-2020 11:04:28 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[22-Mar-2020 11:04:28 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[22-Mar-2020 11:04:28 UTC] デバッグ:セッションID:pq5cj71qb3b48mmme2dbvramvc
+[22-Mar-2020 11:04:28 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[22-Mar-2020 11:04:28 UTC] デバッグ:現在日時スタンプ:1584875068
+[22-Mar-2020 11:04:28 UTC] デバッグ:未ログインユーザーです
+[22-Mar-2020 11:04:28 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[22-Mar-2020 11:04:28 UTC] デバッグ:未ログインユーザーです
+[22-Mar-2020 11:04:35 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[22-Mar-2020 11:04:35 UTC] デバッグ:「ログインページ「
+[22-Mar-2020 11:04:35 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[22-Mar-2020 11:04:35 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[22-Mar-2020 11:04:35 UTC] デバッグ:セッションID:6keuldmm69689g69ruhta6u46c
+[22-Mar-2020 11:04:35 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[22-Mar-2020 11:04:35 UTC] デバッグ:現在日時スタンプ:1584875075
+[22-Mar-2020 11:04:35 UTC] デバッグ:未ログインユーザーです
+[22-Mar-2020 11:04:35 UTC] デバッグ:ポスト送信があります
+[22-Mar-2020 11:04:35 UTC] デバッグ:バリデーションチェック完了
+[22-Mar-2020 11:04:35 UTC] デバッグ:クエリ成功
+[22-Mar-2020 11:04:35 UTC] デバッグ:クエリ結果の中身:Array
+(
+    [password] => $2y$10$6PsUURpxjyUvOAPX53eUvO/dCYgJVL6D4xI13m/j5q7R6WP9toqA6
+    [id] => 3
+)
+
+[22-Mar-2020 11:04:36 UTC] デバッグ:パスワードがマッチしました
+[22-Mar-2020 11:04:36 UTC] デバッグ:ログイン保持がチェックされています
+[22-Mar-2020 11:04:36 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584875076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[22-Mar-2020 11:04:36 UTC] デバッグ:マイページへ遷移します
+[22-Mar-2020 11:04:36 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[22-Mar-2020 11:04:36 UTC] デバッグ:ログイン済みのユーザーです
+[22-Mar-2020 11:04:36 UTC] デバッグ:ログイン済みのユーザーです
+[22-Mar-2020 11:04:36 UTC] デバッグ:ログイン有効期限内です
+[22-Mar-2020 11:04:36 UTC] デバッグ:ログイン済みのユーザーです
+[22-Mar-2020 11:04:43 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「
+[22-Mar-2020 11:04:43 UTC] デバッグ:ニコレイアウト
+[22-Mar-2020 11:04:43 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「
+[22-Mar-2020 11:04:43 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[22-Mar-2020 11:04:43 UTC] デバッグ:セッションID:09k72a5f4rtv915dk20pkaa2ms
+[22-Mar-2020 11:04:43 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584875076
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[22-Mar-2020 11:04:43 UTC] デバッグ:現在日時スタンプ:1584875083
+[22-Mar-2020 11:04:43 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587467076
+[22-Mar-2020 11:04:43 UTC] デバッグ:クエリ成功
+[22-Mar-2020 11:04:43 UTC] PHP Notice:  Undefined offset: 0 in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 11
+[22-Mar-2020 11:04:43 UTC] デバッグ:ログイン済みのユーザーです
+[22-Mar-2020 11:04:43 UTC] デバッグ:ログイン有効期限内です
+[22-Mar-2020 11:04:43 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[23-Mar-2020 01:40:37 UTC] デバッグ:===========================
+[23-Mar-2020 01:40:37 UTC] デバッグ:掲示板〜スレッド一覧ページ〜
+[23-Mar-2020 01:40:37 UTC] デバッグ:===========================
+[23-Mar-2020 01:40:37 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:40:37 UTC] デバッグ:セッションID:jrtb756p45qa29fah80bss3ktv
+[23-Mar-2020 01:40:37 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584875083
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:40:37 UTC] デバッグ:現在日時スタンプ:1584927637
+[23-Mar-2020 01:40:37 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587467083
+[23-Mar-2020 01:40:37 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:40:37 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:40:37 UTC] デバッグ:全データを取得
+[23-Mar-2020 01:40:37 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:37 UTC] デバッグ:画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[23-Mar-2020 01:40:37 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:37 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:37 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:37 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:37 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:37 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:38 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:44 UTC] デバッグ:===========================
+[23-Mar-2020 01:40:44 UTC] デバッグ:掲示板〜スレッド一覧ページ〜
+[23-Mar-2020 01:40:44 UTC] デバッグ:===========================
+[23-Mar-2020 01:40:44 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:40:44 UTC] デバッグ:セッションID:vj4den6f10f2ss17vh5077edn0
+[23-Mar-2020 01:40:44 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584875083
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:40:44 UTC] デバッグ:現在日時スタンプ:1584927644
+[23-Mar-2020 01:40:44 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587467083
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:40:44 UTC] デバッグ:全データを取得
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:44 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:40:44 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:41:59 UTC] デバッグ:============================
+[23-Mar-2020 01:41:59 UTC] デバッグ:スレッドページ
+[23-Mar-2020 01:41:59 UTC] デバッグ:============================
+[23-Mar-2020 01:41:59 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:41:59 UTC] デバッグ:セッションID:t81fqkh1rgmgvc0j14if41l4da
+[23-Mar-2020 01:41:59 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584875083
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:41:59 UTC] デバッグ:現在日時スタンプ:1584927719
+[23-Mar-2020 01:41:59 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587467083
+[23-Mar-2020 01:41:59 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[23-Mar-2020 01:41:59 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[23-Mar-2020 01:41:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:41:59 UTC] デバッグ:ログイン済みのユーザーです
+[23-Mar-2020 01:41:59 UTC] デバッグ:ログイン有効期限内です
+[23-Mar-2020 01:41:59 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[23-Mar-2020 01:41:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:41:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:41:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:41:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:01 UTC] デバッグ:===========================
+[23-Mar-2020 01:42:01 UTC] デバッグ:掲示板〜スレッド一覧ページ〜
+[23-Mar-2020 01:42:01 UTC] デバッグ:===========================
+[23-Mar-2020 01:42:01 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:42:01 UTC] デバッグ:セッションID:jue0l0o8bt9pv60aigb1j6rgns
+[23-Mar-2020 01:42:01 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584927719
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:42:01 UTC] デバッグ:現在日時スタンプ:1584927721
+[23-Mar-2020 01:42:01 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587519719
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:42:01 UTC] デバッグ:全データを取得
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:01 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:01 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] デバッグ:===========================
+[23-Mar-2020 01:42:03 UTC] デバッグ:掲示板〜スレッド一覧ページ〜
+[23-Mar-2020 01:42:03 UTC] デバッグ:===========================
+[23-Mar-2020 01:42:03 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:42:03 UTC] デバッグ:セッションID:n1oebfq7afvv4p9ejcql6h2su1
+[23-Mar-2020 01:42:03 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584927719
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:42:03 UTC] デバッグ:現在日時スタンプ:1584927723
+[23-Mar-2020 01:42:03 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587519719
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:42:03 UTC] デバッグ:全データを取得
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:03 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:07 UTC] デバッグ:============================
+[23-Mar-2020 01:42:07 UTC] デバッグ:スレッドページ
+[23-Mar-2020 01:42:07 UTC] デバッグ:============================
+[23-Mar-2020 01:42:07 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:42:07 UTC] デバッグ:セッションID:cg7ukdd3ljvoj3mvp7pal2300v
+[23-Mar-2020 01:42:07 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584927719
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:42:07 UTC] デバッグ:現在日時スタンプ:1584927727
+[23-Mar-2020 01:42:07 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587519719
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[23-Mar-2020 01:42:07 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:07 UTC] デバッグ:ログイン済みのユーザーです
+[23-Mar-2020 01:42:07 UTC] デバッグ:ログイン有効期限内です
+[23-Mar-2020 01:42:07 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:07 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:40 UTC] デバッグ:===========================
+[23-Mar-2020 01:42:40 UTC] デバッグ:掲示板〜スレッド一覧ページ〜
+[23-Mar-2020 01:42:40 UTC] デバッグ:===========================
+[23-Mar-2020 01:42:40 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:42:40 UTC] デバッグ:セッションID:ooi00665pg3koi2rq8ng3b0hqf
+[23-Mar-2020 01:42:40 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584927727
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:42:40 UTC] デバッグ:現在日時スタンプ:1584927760
+[23-Mar-2020 01:42:40 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587519727
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:42:40 UTC] デバッグ:全データを取得
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:52 UTC] デバッグ:===========================
+[23-Mar-2020 01:42:52 UTC] デバッグ:掲示板〜スレッド一覧ページ〜
+[23-Mar-2020 01:42:52 UTC] デバッグ:===========================
+[23-Mar-2020 01:42:52 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:42:52 UTC] デバッグ:セッションID:okjm2kfu4440ra7qbr0rh2cdp4
+[23-Mar-2020 01:42:52 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584927727
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:42:52 UTC] デバッグ:現在日時スタンプ:1584927772
+[23-Mar-2020 01:42:52 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587519727
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:sql:INSERT INTO test_bbs (res_num, thread_id, name, email, comment_val, comment_date) VALUES (:res_num, :thread_id, :name, :email, :comment_val,:comment_date)
+[23-Mar-2020 01:42:52 UTC] デバッグ:書き込みしました
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:sql:INSERT INTO test_bbs_thread_title (thread_id, thread_title) VALUES (:thread_id, :thread_title)
+[23-Mar-2020 01:42:52 UTC] デバッグ:スレッドの作成に成功しました
+[23-Mar-2020 01:42:52 UTC] デバッグ:投稿したページに遷移します
+[23-Mar-2020 01:42:52 UTC] デバッグ:全データを取得
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:52 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:53 UTC] デバッグ:============================
+[23-Mar-2020 01:42:53 UTC] デバッグ:スレッドページ
+[23-Mar-2020 01:42:53 UTC] デバッグ:============================
+[23-Mar-2020 01:42:53 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:42:53 UTC] デバッグ:セッションID:i5g67un4bqeti1jcjqfb2n9oao
+[23-Mar-2020 01:42:53 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584927727
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:42:53 UTC] デバッグ:現在日時スタンプ:1584927773
+[23-Mar-2020 01:42:53 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587519727
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[23-Mar-2020 01:42:53 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:53 UTC] デバッグ:ログイン済みのユーザーです
+[23-Mar-2020 01:42:53 UTC] デバッグ:ログイン有効期限内です
+[23-Mar-2020 01:42:53 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:56 UTC] デバッグ:============================
+[23-Mar-2020 01:42:56 UTC] デバッグ:スレッドページ
+[23-Mar-2020 01:42:56 UTC] デバッグ:============================
+[23-Mar-2020 01:42:56 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:42:56 UTC] デバッグ:セッションID:4pksqt5i0a7tfi8f04ro69qk2q
+[23-Mar-2020 01:42:56 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584927773
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:42:56 UTC] デバッグ:現在日時スタンプ:1584927776
+[23-Mar-2020 01:42:56 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587519773
+[23-Mar-2020 01:42:56 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[23-Mar-2020 01:42:56 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[23-Mar-2020 01:42:56 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:56 UTC] デバッグ:ログイン済みのユーザーです
+[23-Mar-2020 01:42:56 UTC] デバッグ:ログイン有効期限内です
+[23-Mar-2020 01:42:56 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[23-Mar-2020 01:42:56 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[23-Mar-2020 01:42:56 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[23-Mar-2020 01:42:59 UTC] デバッグ:===========================
+[23-Mar-2020 01:42:59 UTC] デバッグ:掲示板〜スレッド一覧ページ〜
+[23-Mar-2020 01:42:59 UTC] デバッグ:===========================
+[23-Mar-2020 01:42:59 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[23-Mar-2020 01:42:59 UTC] デバッグ:セッションID:ka62astu7bb8e6ofeabodleq4u
+[23-Mar-2020 01:42:59 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584927776
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[23-Mar-2020 01:42:59 UTC] デバッグ:現在日時スタンプ:1584927779
+[23-Mar-2020 01:42:59 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587519776
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[23-Mar-2020 01:42:59 UTC] デバッグ:全データを取得
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] デバッグ:クエリ成功
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[23-Mar-2020 01:42:59 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[31-Mar-2020 03:34:43 UTC] デバッグ:============================
+[31-Mar-2020 03:34:43 UTC] デバッグ:スレッドページ
+[31-Mar-2020 03:34:43 UTC] デバッグ:============================
+[31-Mar-2020 03:34:43 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[31-Mar-2020 03:34:43 UTC] デバッグ:セッションID:9s7oor3jqoblfsqcfr8m3be4i7
+[31-Mar-2020 03:34:43 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1584927776
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[31-Mar-2020 03:34:43 UTC] デバッグ:現在日時スタンプ:1585625683
+[31-Mar-2020 03:34:43 UTC] デバッグ:ログイン期日日時タイムスタンプ:1587519776
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[31-Mar-2020 03:34:43 UTC] デバッグ:クエリ成功
+[31-Mar-2020 03:34:43 UTC] デバッグ:ログイン済みのユーザーです
+[31-Mar-2020 03:34:43 UTC] デバッグ:ログイン有効期限内です
+[31-Mar-2020 03:34:43 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[31-Mar-2020 03:34:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] デバッグ:============================
+[02-Apr-2020 00:05:53 UTC] デバッグ:スレッドページ
+[02-Apr-2020 00:05:53 UTC] デバッグ:============================
+[02-Apr-2020 00:05:53 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[02-Apr-2020 00:05:53 UTC] デバッグ:セッションID:id985ive9j7vqdejmc1kb5ug4s
+[02-Apr-2020 00:05:53 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[02-Apr-2020 00:05:53 UTC] デバッグ:現在日時スタンプ:1585785953
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[02-Apr-2020 00:05:53 UTC] デバッグ:クエリ成功
+[02-Apr-2020 00:05:53 UTC] デバッグ:未ログインユーザーです
+[02-Apr-2020 00:05:53 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[02-Apr-2020 00:05:53 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[02-Apr-2020 00:05:53 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[02-Apr-2020 00:05:53 UTC] デバッグ:「ログインページ「
+[02-Apr-2020 00:05:53 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[02-Apr-2020 00:05:53 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[02-Apr-2020 00:05:53 UTC] デバッグ:セッションID:96c9v257kf22qvbde5njiekj0f
+[02-Apr-2020 00:05:53 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[02-Apr-2020 00:05:53 UTC] デバッグ:現在日時スタンプ:1585785953
+[02-Apr-2020 00:05:53 UTC] デバッグ:未ログインユーザーです
+[02-Apr-2020 00:05:53 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[02-Apr-2020 00:05:53 UTC] デバッグ:未ログインユーザーです
+[02-Apr-2020 00:06:00 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「
+[02-Apr-2020 00:06:00 UTC] デバッグ:ニコレイアウト
+[02-Apr-2020 00:06:00 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「
+[02-Apr-2020 00:06:00 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[02-Apr-2020 00:06:00 UTC] デバッグ:セッションID:mdqsrsjosqsa6rrmh4sikpjmcm
+[02-Apr-2020 00:06:00 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[02-Apr-2020 00:06:00 UTC] デバッグ:現在日時スタンプ:1585785960
+[02-Apr-2020 00:06:00 UTC] デバッグ:クエリ成功
+[02-Apr-2020 00:06:00 UTC] PHP Notice:  Undefined offset: 0 in /Applications/MAMP/htdocs/res_BBS/pages/nicoLike.php on line 11
+[02-Apr-2020 00:06:00 UTC] デバッグ:未ログインユーザーです
+[02-Apr-2020 00:06:00 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[02-Apr-2020 00:06:00 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[02-Apr-2020 00:06:00 UTC] デバッグ:「ログインページ「
+[02-Apr-2020 00:06:00 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[02-Apr-2020 00:06:00 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[02-Apr-2020 00:06:00 UTC] デバッグ:セッションID:0a62cpnqd3jm504kh8egoi6loc
+[02-Apr-2020 00:06:00 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[02-Apr-2020 00:06:00 UTC] デバッグ:現在日時スタンプ:1585785960
+[02-Apr-2020 00:06:00 UTC] デバッグ:未ログインユーザーです
+[02-Apr-2020 00:06:00 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[02-Apr-2020 00:06:00 UTC] デバッグ:未ログインユーザーです
+[02-Apr-2020 00:08:00 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[02-Apr-2020 00:08:00 UTC] デバッグ:「ログインページ「
+[02-Apr-2020 00:08:00 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[02-Apr-2020 00:08:00 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[02-Apr-2020 00:08:00 UTC] デバッグ:セッションID:4nlunn92p5q6adj62i48nq1d7k
+[02-Apr-2020 00:08:00 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[02-Apr-2020 00:08:00 UTC] デバッグ:現在日時スタンプ:1585786080
+[02-Apr-2020 00:08:00 UTC] デバッグ:未ログインユーザーです
+[02-Apr-2020 00:08:00 UTC] デバッグ:ポスト送信があります
+[02-Apr-2020 00:08:00 UTC] デバッグ:バリデーションチェック完了
+[02-Apr-2020 00:08:00 UTC] デバッグ:クエリ成功
+[02-Apr-2020 00:08:00 UTC] デバッグ:クエリ結果の中身:Array
+(
+    [password] => $2y$10$6PsUURpxjyUvOAPX53eUvO/dCYgJVL6D4xI13m/j5q7R6WP9toqA6
+    [id] => 3
+)
+
+[02-Apr-2020 00:08:01 UTC] デバッグ:パスワードがマッチしました
+[02-Apr-2020 00:08:01 UTC] デバッグ:ログイン保持がチェックされていません
+[02-Apr-2020 00:08:01 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585786081
+    [login_limit] => 3600
+    [user_id] => 3
+)
+
+[02-Apr-2020 00:08:01 UTC] デバッグ:マイページへ遷移します
+[02-Apr-2020 00:08:01 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[02-Apr-2020 00:08:01 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:08:01 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:08:01 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:08:01 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:08:08 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[02-Apr-2020 00:08:08 UTC] デバッグ:「ログインページ「
+[02-Apr-2020 00:08:08 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[02-Apr-2020 00:08:08 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[02-Apr-2020 00:08:08 UTC] デバッグ:セッションID:i4deuellr86mcrckk3sa8noai3
+[02-Apr-2020 00:08:08 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585786081
+    [login_limit] => 3600
+    [user_id] => 3
+)
+
+[02-Apr-2020 00:08:08 UTC] デバッグ:現在日時スタンプ:1585786088
+[02-Apr-2020 00:08:08 UTC] デバッグ:ログイン期日日時タイムスタンプ:1585789681
+[02-Apr-2020 00:08:08 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:08:08 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:08:08 UTC] デバッグ:マイページに遷移します
+[02-Apr-2020 00:08:08 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[02-Apr-2020 00:08:08 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:08:08 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:08:08 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:08:08 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:31:58 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:31:58 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:31:58 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:31:59 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:31:59 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:31:59 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:32:03 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:32:03 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:32:03 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:34:16 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:34:16 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:34:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 13
+[02-Apr-2020 00:34:39 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:34:39 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:34:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 13
+[02-Apr-2020 00:34:40 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:34:40 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:34:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 13
+[02-Apr-2020 00:34:43 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:34:43 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:34:43 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:34:43 UTC] PHP Notice:  Undefined variable: REQUEST_URI in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 12
+[02-Apr-2020 00:35:15 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:35:15 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:35:15 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:35:15 UTC] PHP Notice:  Undefined variable: SERVER in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 12
+[02-Apr-2020 00:35:34 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:35:34 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:35:34 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:35:34 UTC] PHP Notice:  Undefined variable: SERVER in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 12
+[02-Apr-2020 00:35:41 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:35:41 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:35:41 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:35:41 UTC] PHP Notice:  Undefined variable: SERVER in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 12
+[02-Apr-2020 00:36:45 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:36:45 UTC] PHP Notice:  Undefined variable: SERVER in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 12
+[02-Apr-2020 00:36:49 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:36:49 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:36:49 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:36:49 UTC] PHP Notice:  Undefined variable: SERVER in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 12
+[02-Apr-2020 00:37:01 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:37:01 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:37:01 UTC] PHP Parse error:  syntax error, unexpected '?>' in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 13
+[02-Apr-2020 00:37:36 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:37:36 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:37:36 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:37:42 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:37:42 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:37:42 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:39:04 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:39:04 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:39:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 12
+[02-Apr-2020 00:39:14 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:39:14 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:39:14 UTC] PHP Parse error:  syntax error, unexpected '?>' in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 13
+[02-Apr-2020 00:39:15 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:39:15 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:39:15 UTC] PHP Parse error:  syntax error, unexpected '?>' in /Applications/MAMP/htdocs/res_BBS/pages/header.php on line 13
+[02-Apr-2020 00:39:28 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:39:28 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:39:28 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:39:30 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:39:30 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:39:30 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:39:37 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:39:37 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:39:37 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:50:55 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:50:57 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:50:57 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:50:57 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:51:14 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:51:14 UTC] デバッグ:ログイン有効期限内です
+[02-Apr-2020 00:51:14 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:54:49 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:54:51 UTC] デバッグ:ログイン済みのユーザーです
+[02-Apr-2020 00:54:52 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:32:36 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:32:36 UTC] デバッグ:ログイン有効期限を超えています
+[03-Apr-2020 03:32:36 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:32:36 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-Apr-2020 03:32:36 UTC] デバッグ:「ログインページ「
+[03-Apr-2020 03:32:36 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-Apr-2020 03:32:36 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[03-Apr-2020 03:32:36 UTC] デバッグ:セッションID:pjb97mre7o8vvpqsot0kpbst6i
+[03-Apr-2020 03:32:36 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[03-Apr-2020 03:32:36 UTC] デバッグ:現在日時スタンプ:1585884756
+[03-Apr-2020 03:32:36 UTC] デバッグ:未ログインユーザーです
+[03-Apr-2020 03:32:36 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-Apr-2020 03:32:36 UTC] デバッグ:未ログインユーザーです
+[03-Apr-2020 03:32:42 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-Apr-2020 03:32:42 UTC] デバッグ:「ログインページ「
+[03-Apr-2020 03:32:42 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-Apr-2020 03:32:42 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[03-Apr-2020 03:32:42 UTC] デバッグ:セッションID:miabbt150mnc44cc4jsb2uib59
+[03-Apr-2020 03:32:42 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[03-Apr-2020 03:32:42 UTC] デバッグ:現在日時スタンプ:1585884762
+[03-Apr-2020 03:32:42 UTC] デバッグ:未ログインユーザーです
+[03-Apr-2020 03:32:42 UTC] デバッグ:ポスト送信があります
+[03-Apr-2020 03:32:42 UTC] デバッグ:バリデーションチェック完了
+[03-Apr-2020 03:32:42 UTC] デバッグ:クエリ成功
+[03-Apr-2020 03:32:42 UTC] デバッグ:クエリ結果の中身:Array
+(
+    [password] => $2y$10$6PsUURpxjyUvOAPX53eUvO/dCYgJVL6D4xI13m/j5q7R6WP9toqA6
+    [id] => 3
+)
+
+[03-Apr-2020 03:32:42 UTC] デバッグ:パスワードがマッチしました
+[03-Apr-2020 03:32:42 UTC] デバッグ:ログイン保持がチェックされていません
+[03-Apr-2020 03:32:42 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585884762
+    [login_limit] => 3600
+    [user_id] => 3
+)
+
+[03-Apr-2020 03:32:42 UTC] デバッグ:マイページへ遷移します
+[03-Apr-2020 03:32:42 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-Apr-2020 03:32:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:32:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:32:42 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:32:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:17 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:17 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:35:17 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:20 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:20 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:35:20 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:45 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:45 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:35:45 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:46 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:46 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:35:46 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:47 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:47 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:35:47 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:50 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:35:50 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:35:50 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:06 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:06 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:37:06 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:13 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:13 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:37:13 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:30 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:30 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:37:30 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:34 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:34 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:37:34 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:35 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:35 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:37:35 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:38 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:38 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:37:38 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:50 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:50 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:37:50 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:53 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:37:53 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:37:53 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:43:00 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:43:00 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:43:00 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:43:01 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:43:01 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:43:01 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:43:04 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:43:04 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:43:04 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:44:30 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:44:30 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:44:30 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:44:35 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:44:35 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:44:35 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:44:36 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:44:36 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:44:36 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:44:37 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:44:37 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:44:37 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:44:40 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:44:40 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:44:40 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:46:33 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:46:33 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:46:33 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:46:36 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:46:36 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:46:36 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:47:03 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:47:03 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:47:03 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:47:05 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:47:05 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:47:05 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:48:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:48:42 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:48:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:49:48 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:49:48 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:49:48 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:49:57 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:49:57 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:49:57 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:49:59 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:49:59 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:49:59 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:50:15 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:50:15 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:50:15 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:55:34 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:55:34 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:55:34 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:55:36 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:55:36 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:55:36 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:55:39 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:55:39 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:55:39 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:55:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:55:42 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:55:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:57:04 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:57:04 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:57:04 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:57:41 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:57:41 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:57:41 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:57:47 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:57:47 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:57:47 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:58:00 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 03:58:00 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 03:58:00 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:02:55 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:02:55 UTC] デバッグ:ログイン有効期限を超えています
+[03-Apr-2020 05:02:55 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:02:55 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-Apr-2020 05:02:55 UTC] デバッグ:「ログインページ「
+[03-Apr-2020 05:02:55 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-Apr-2020 05:02:55 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[03-Apr-2020 05:02:55 UTC] デバッグ:セッションID:qcua3sj3ejraqud928p9nk4n12
+[03-Apr-2020 05:02:55 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[03-Apr-2020 05:02:55 UTC] デバッグ:現在日時スタンプ:1585890175
+[03-Apr-2020 05:02:55 UTC] デバッグ:未ログインユーザーです
+[03-Apr-2020 05:02:55 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-Apr-2020 05:02:55 UTC] デバッグ:未ログインユーザーです
+[03-Apr-2020 05:03:00 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-Apr-2020 05:03:00 UTC] デバッグ:「ログインページ「
+[03-Apr-2020 05:03:00 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-Apr-2020 05:03:00 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[03-Apr-2020 05:03:00 UTC] デバッグ:セッションID:soift694aq0k2h11t69jlrm54n
+[03-Apr-2020 05:03:00 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[03-Apr-2020 05:03:00 UTC] デバッグ:現在日時スタンプ:1585890180
+[03-Apr-2020 05:03:00 UTC] デバッグ:未ログインユーザーです
+[03-Apr-2020 05:03:00 UTC] デバッグ:ポスト送信があります
+[03-Apr-2020 05:03:00 UTC] デバッグ:バリデーションチェック完了
+[03-Apr-2020 05:03:00 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:03:00 UTC] デバッグ:クエリ結果の中身:Array
+(
+    [password] => $2y$10$6PsUURpxjyUvOAPX53eUvO/dCYgJVL6D4xI13m/j5q7R6WP9toqA6
+    [id] => 3
+)
+
+[03-Apr-2020 05:03:01 UTC] デバッグ:パスワードがマッチしました
+[03-Apr-2020 05:03:01 UTC] デバッグ:ログイン保持がチェックされています
+[03-Apr-2020 05:03:01 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585890181
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[03-Apr-2020 05:03:01 UTC] デバッグ:マイページへ遷移します
+[03-Apr-2020 05:03:01 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-Apr-2020 05:03:01 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:03:01 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:03:01 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:03:01 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:08:32 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:08:32 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:08:32 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:10:40 UTC] デバッグ:===========================
+[03-Apr-2020 05:10:40 UTC] デバッグ:掲示板〜スレッド一覧ページ〜
+[03-Apr-2020 05:10:40 UTC] デバッグ:===========================
+[03-Apr-2020 05:10:40 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[03-Apr-2020 05:10:40 UTC] デバッグ:セッションID:76lj3902qm40p1rn694goklbrn
+[03-Apr-2020 05:10:40 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585890512
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[03-Apr-2020 05:10:40 UTC] デバッグ:現在日時スタンプ:1585890640
+[03-Apr-2020 05:10:40 UTC] デバッグ:ログイン期日日時タイムスタンプ:1588482512
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[03-Apr-2020 05:10:40 UTC] デバッグ:全データを取得
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:40 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:43 UTC] デバッグ:============================
+[03-Apr-2020 05:10:43 UTC] デバッグ:スレッドページ
+[03-Apr-2020 05:10:43 UTC] デバッグ:============================
+[03-Apr-2020 05:10:43 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[03-Apr-2020 05:10:43 UTC] デバッグ:セッションID:6n8ulvsbmr1fr2e9627t47b9e6
+[03-Apr-2020 05:10:43 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585890512
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[03-Apr-2020 05:10:43 UTC] デバッグ:現在日時スタンプ:1585890643
+[03-Apr-2020 05:10:43 UTC] デバッグ:ログイン期日日時タイムスタンプ:1588482512
+[03-Apr-2020 05:10:43 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[03-Apr-2020 05:10:43 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[03-Apr-2020 05:10:43 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:43 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:10:43 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:10:43 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[03-Apr-2020 05:10:43 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[03-Apr-2020 05:10:43 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[03-Apr-2020 05:10:50 UTC] デバッグ:============================
+[03-Apr-2020 05:10:50 UTC] デバッグ:スレッドページ
+[03-Apr-2020 05:10:50 UTC] デバッグ:============================
+[03-Apr-2020 05:10:50 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[03-Apr-2020 05:10:50 UTC] デバッグ:セッションID:3bdbqgurab1ut2oggp5mir6tjf
+[03-Apr-2020 05:10:50 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585890643
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[03-Apr-2020 05:10:50 UTC] デバッグ:現在日時スタンプ:1585890650
+[03-Apr-2020 05:10:50 UTC] デバッグ:ログイン期日日時タイムスタンプ:1588482643
+[03-Apr-2020 05:10:50 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:50 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:10:50 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:10:50 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:50 UTC] デバッグ:投稿したページに遷移します
+[03-Apr-2020 05:10:50 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[03-Apr-2020 05:10:50 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[03-Apr-2020 05:10:50 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[03-Apr-2020 05:10:50 UTC] デバッグ:============================
+[03-Apr-2020 05:10:50 UTC] デバッグ:スレッドページ
+[03-Apr-2020 05:10:50 UTC] デバッグ:============================
+[03-Apr-2020 05:10:50 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[03-Apr-2020 05:10:50 UTC] デバッグ:セッションID:fcf337skgqpb0bf1489putoij5
+[03-Apr-2020 05:10:50 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585890650
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[03-Apr-2020 05:10:50 UTC] デバッグ:現在日時スタンプ:1585890650
+[03-Apr-2020 05:10:50 UTC] デバッグ:ログイン期日日時タイムスタンプ:1588482650
+[03-Apr-2020 05:10:50 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[03-Apr-2020 05:10:50 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 9
+[03-Apr-2020 05:10:50 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:50 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:10:50 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:10:50 UTC] デバッグ:画面表示処理終了 >>>>>>>>>>>>>>>>>>>>>>>>>>
+[03-Apr-2020 05:10:50 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[03-Apr-2020 05:10:50 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[03-Apr-2020 05:10:50 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 40
+[03-Apr-2020 05:10:50 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/thread_template.php on line 51
+[03-Apr-2020 05:10:55 UTC] デバッグ:===========================
+[03-Apr-2020 05:10:55 UTC] デバッグ:掲示板〜スレッド一覧ページ〜
+[03-Apr-2020 05:10:55 UTC] デバッグ:===========================
+[03-Apr-2020 05:10:55 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[03-Apr-2020 05:10:55 UTC] デバッグ:セッションID:p3nta6mges7v00baqa4egv9eiq
+[03-Apr-2020 05:10:55 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585890650
+    [login_limit] => 2592000
+    [user_id] => 3
+)
+
+[03-Apr-2020 05:10:55 UTC] デバッグ:現在日時スタンプ:1585890655
+[03-Apr-2020 05:10:55 UTC] デバッグ:ログイン期日日時タイムスタンプ:1588482650
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/res_BBS/pages/functions/create_thread_function.php on line 3
+[03-Apr-2020 05:10:55 UTC] デバッグ:全データを取得
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] デバッグ:クエリ成功
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: delete_flg in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 91
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:10:55 UTC] PHP Notice:  Undefined index: commenter_id in /Applications/MAMP/htdocs/res_BBS/pages/board.php on line 101
+[03-Apr-2020 05:14:13 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:14:13 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:14:13 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:19:51 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:19:51 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:19:51 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:20:20 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:20:20 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:20:20 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:21:05 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:21:05 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:21:05 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:21:28 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:21:28 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:21:28 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:21:52 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:21:52 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:21:52 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:26:48 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:26:48 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:26:48 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:29:35 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:29:35 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:29:35 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:42:53 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 05:42:53 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 05:42:53 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 06:48:23 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 06:48:23 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 06:48:23 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 06:48:30 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 06:48:30 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 06:48:30 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 06:48:31 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 06:48:31 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 06:48:31 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:48:15 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:48:15 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 11:48:15 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:48:16 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:48:16 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 11:48:16 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:48:29 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:48:29 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 11:48:29 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:48:57 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:48:57 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 11:48:57 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:48:58 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:48:58 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 11:48:58 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:49:08 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:49:08 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 11:49:08 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:49:25 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:49:25 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 11:49:25 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:50:15 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:50:15 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 11:50:15 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:50:16 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:50:16 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 11:50:16 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:50:49 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 11:50:49 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 11:50:49 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:41 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:41 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:55:41 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:42 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:55:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:43 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:43 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:55:43 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:44 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:44 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:55:44 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:44 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:44 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:55:44 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:45 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:45 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:55:45 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:50 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:50 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:55:50 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:51 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:51 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:55:51 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:53 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:53 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:55:53 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:54 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:55:54 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:55:54 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:21 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:21 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:56:21 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:36 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:36 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:56:36 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:37 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:37 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:56:37 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:39 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:39 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:56:39 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:52 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:52 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:56:52 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:59 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:56:59 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:56:59 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:57:29 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 12:57:29 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 12:57:29 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 13:01:30 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 13:01:30 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 13:01:30 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:10:05 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:10:05 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 15:10:05 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:19:38 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:19:38 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 15:19:38 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:19:39 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:19:39 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 15:19:39 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:19:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:19:42 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 15:19:42 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:52:34 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:52:34 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 15:52:34 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:52:38 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:52:38 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 15:52:38 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:52:39 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:52:39 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 15:52:39 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:52:43 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:52:43 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 15:52:43 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:54:04 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:54:04 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 15:54:04 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:54:20 UTC] デバッグ:ログイン済みのユーザーです
+[03-Apr-2020 15:54:20 UTC] デバッグ:ログイン有効期限内です
+[03-Apr-2020 15:54:20 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:50:18 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:50:18 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 00:50:18 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 00:50:18 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 00:50:18 UTC] デバッグ:クエリ成功
+[04-Apr-2020 00:50:18 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:52:29 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:52:29 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 00:52:29 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 00:52:29 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 00:52:29 UTC] デバッグ:クエリ成功
+[04-Apr-2020 00:52:29 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:52:45 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:52:45 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 00:52:45 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 00:52:45 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 00:52:45 UTC] デバッグ:クエリ成功
+[04-Apr-2020 00:52:45 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:52:53 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:52:53 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 00:52:53 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 00:52:53 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 00:52:53 UTC] デバッグ:クエリ成功
+[04-Apr-2020 00:52:53 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:53:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:53:03 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 00:53:03 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 00:53:03 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 00:53:03 UTC] デバッグ:クエリ成功
+[04-Apr-2020 00:53:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:53:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:53:03 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 00:53:03 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 00:53:03 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 00:53:03 UTC] デバッグ:クエリ成功
+[04-Apr-2020 00:53:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:53:05 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:53:05 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 00:53:05 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 00:53:05 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 00:53:05 UTC] デバッグ:クエリ成功
+[04-Apr-2020 00:53:05 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:53:07 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 00:53:07 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 00:53:07 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 00:53:07 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 00:53:07 UTC] デバッグ:クエリ成功
+[04-Apr-2020 00:53:07 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:02:42 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:02:42 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 01:02:42 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 01:02:42 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 01:02:42 UTC] デバッグ:クエリ成功
+[04-Apr-2020 01:02:42 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:02:45 UTC] デバッグ:「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:02:45 UTC] デバッグ:ログアウトページ
+[04-Apr-2020 01:02:45 UTC] デバッグ:「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:02:45 UTC] デバッグ:ログアウトします
+[04-Apr-2020 01:02:45 UTC] デバッグ:ログインページへ遷移します
+[04-Apr-2020 01:02:45 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:02:45 UTC] デバッグ:「ログインページ「
+[04-Apr-2020 01:02:45 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:02:45 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[04-Apr-2020 01:02:45 UTC] デバッグ:セッションID:n4jhkf1nj6n7vf1svvmhpbhh02
+[04-Apr-2020 01:02:45 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[04-Apr-2020 01:02:45 UTC] デバッグ:現在日時スタンプ:1585962165
+[04-Apr-2020 01:02:45 UTC] デバッグ:未ログインユーザーです
+[04-Apr-2020 01:02:45 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[04-Apr-2020 01:02:45 UTC] デバッグ:未ログインユーザーです
+[04-Apr-2020 01:02:51 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:02:51 UTC] デバッグ:「ログインページ「
+[04-Apr-2020 01:02:51 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:02:51 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[04-Apr-2020 01:02:51 UTC] デバッグ:セッションID:8s0plgdv881b4c6n11htk8ldsu
+[04-Apr-2020 01:02:51 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[04-Apr-2020 01:02:51 UTC] デバッグ:現在日時スタンプ:1585962171
+[04-Apr-2020 01:02:51 UTC] デバッグ:未ログインユーザーです
+[04-Apr-2020 01:02:51 UTC] デバッグ:ポスト送信があります
+[04-Apr-2020 01:02:51 UTC] デバッグ:バリデーションチェック完了
+[04-Apr-2020 01:02:51 UTC] デバッグ:クエリ成功
+[04-Apr-2020 01:02:51 UTC] デバッグ:クエリ結果の中身:Array
+(
+    [password] => $2y$10$6PsUURpxjyUvOAPX53eUvO/dCYgJVL6D4xI13m/j5q7R6WP9toqA6
+    [id] => 3
+)
+
+[04-Apr-2020 01:02:52 UTC] デバッグ:パスワードがマッチしました
+[04-Apr-2020 01:02:52 UTC] デバッグ:ログイン保持がチェックされています
+[04-Apr-2020 01:02:52 UTC] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/res_BBS/pages/login.php on line 72
+[04-Apr-2020 01:02:52 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585962172
+    [login_limit] => 2592000
+    [user_id] => 
+)
+
+[04-Apr-2020 01:02:52 UTC] デバッグ:マイページへ遷移します
+[04-Apr-2020 01:02:52 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[04-Apr-2020 01:02:52 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:02:52 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:02:52 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 01:02:52 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 01:02:52 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 01:02:52 UTC] デバッグ:クエリ成功
+[04-Apr-2020 01:02:52 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:03:20 UTC] デバッグ:「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:03:20 UTC] デバッグ:ログアウトページ
+[04-Apr-2020 01:03:20 UTC] デバッグ:「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:03:20 UTC] デバッグ:ログアウトします
+[04-Apr-2020 01:03:20 UTC] デバッグ:ログインページへ遷移します
+[04-Apr-2020 01:03:20 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:03:20 UTC] デバッグ:「ログインページ「
+[04-Apr-2020 01:03:20 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:03:20 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[04-Apr-2020 01:03:20 UTC] デバッグ:セッションID:42dd0rpd757j7ou8983am3ot26
+[04-Apr-2020 01:03:20 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[04-Apr-2020 01:03:20 UTC] デバッグ:現在日時スタンプ:1585962200
+[04-Apr-2020 01:03:20 UTC] デバッグ:未ログインユーザーです
+[04-Apr-2020 01:03:20 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[04-Apr-2020 01:03:20 UTC] デバッグ:未ログインユーザーです
+[04-Apr-2020 01:03:36 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:03:36 UTC] デバッグ:「ログインページ「
+[04-Apr-2020 01:03:36 UTC] デバッグ:「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[04-Apr-2020 01:03:36 UTC] デバッグ:>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[04-Apr-2020 01:03:36 UTC] デバッグ:セッションID:6p3c48qk310sdn605eiv7o4glu
+[04-Apr-2020 01:03:36 UTC] デバッグ:セッション変数の中身:Array
+(
+)
+
+[04-Apr-2020 01:03:36 UTC] デバッグ:現在日時スタンプ:1585962216
+[04-Apr-2020 01:03:36 UTC] デバッグ:未ログインユーザーです
+[04-Apr-2020 01:03:36 UTC] デバッグ:ポスト送信があります
+[04-Apr-2020 01:03:36 UTC] デバッグ:バリデーションチェック完了
+[04-Apr-2020 01:03:36 UTC] デバッグ:クエリ成功
+[04-Apr-2020 01:03:36 UTC] デバッグ:クエリ結果の中身:Array
+(
+    [password] => $2y$10$6PsUURpxjyUvOAPX53eUvO/dCYgJVL6D4xI13m/j5q7R6WP9toqA6
+    [id] => 3
+    [user_id] => bxIOvslho
+)
+
+[04-Apr-2020 01:03:36 UTC] デバッグ:パスワードがマッチしました
+[04-Apr-2020 01:03:36 UTC] デバッグ:ログイン保持がチェックされています
+[04-Apr-2020 01:03:36 UTC] デバッグ:セッション変数の中身:Array
+(
+    [login_date] => 1585962216
+    [login_limit] => 2592000
+    [user_id] => bxIOvslho
+)
+
+[04-Apr-2020 01:03:36 UTC] デバッグ:マイページへ遷移します
+[04-Apr-2020 01:03:36 UTC] デバッグ:画面表示終了<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[04-Apr-2020 01:03:36 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:03:36 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:03:36 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 01:03:36 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 01:03:36 UTC] PHP Notice:  Undefined variable: u_id in /Applications/MAMP/htdocs/res_BBS/pages/functions/function.php on line 158
+[04-Apr-2020 01:03:36 UTC] デバッグ:クエリ成功
+[04-Apr-2020 01:03:36 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:26:17 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:26:17 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 01:26:17 UTC] デバッグ:ユーザーIDを取得します
+[04-Apr-2020 01:26:17 UTC] デバッグ:クエリ成功
+[04-Apr-2020 01:26:17 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:26:33 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:26:33 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 01:26:33 UTC] デバッグ:ユーザーIDを取得します
+[04-Apr-2020 01:26:33 UTC] デバッグ:クエリ成功
+[04-Apr-2020 01:26:33 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:32:47 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:32:47 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 01:32:47 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 01:32:47 UTC] デバッグ:クエリ成功
+[04-Apr-2020 01:32:47 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:40:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 01:40:03 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 01:40:03 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 01:40:03 UTC] デバッグ:クエリ成功
+[04-Apr-2020 01:40:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:43:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:43:03 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 10:43:03 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 10:43:03 UTC] デバッグ:クエリ成功
+[04-Apr-2020 10:43:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:51:39 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:51:39 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 10:51:39 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 10:51:39 UTC] デバッグ:クエリ成功
+[04-Apr-2020 10:51:39 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:52:56 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:52:56 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 10:52:56 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 10:52:56 UTC] デバッグ:クエリ成功
+[04-Apr-2020 10:52:56 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:53:04 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:53:04 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 10:53:04 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 10:53:04 UTC] デバッグ:クエリ成功
+[04-Apr-2020 10:53:04 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:53:19 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:53:19 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 10:53:19 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 10:53:19 UTC] デバッグ:クエリ成功
+[04-Apr-2020 10:53:19 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:54:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:54:03 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 10:54:03 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 10:54:03 UTC] デバッグ:クエリ成功
+[04-Apr-2020 10:54:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:54:11 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:54:11 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 10:54:11 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 10:54:11 UTC] デバッグ:クエリ成功
+[04-Apr-2020 10:54:11 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:54:12 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:54:12 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 10:54:12 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 10:54:12 UTC] デバッグ:クエリ成功
+[04-Apr-2020 10:54:12 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:54:15 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 10:54:15 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 10:54:15 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 10:54:15 UTC] デバッグ:クエリ成功
+[04-Apr-2020 10:54:15 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 11:33:57 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 11:33:57 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 11:33:57 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 11:33:57 UTC] デバッグ:クエリ成功
+[04-Apr-2020 11:33:57 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 11:34:30 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 11:34:30 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 11:34:30 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 11:34:30 UTC] デバッグ:クエリ成功
+[04-Apr-2020 11:34:30 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 11:34:31 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 11:34:31 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 11:34:31 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 11:34:31 UTC] デバッグ:クエリ成功
+[04-Apr-2020 11:34:31 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 11:35:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 11:35:03 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 11:35:03 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 11:35:03 UTC] デバッグ:クエリ成功
+[04-Apr-2020 11:35:03 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 11:35:33 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 11:35:33 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 11:35:33 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 11:35:33 UTC] デバッグ:クエリ成功
+[04-Apr-2020 11:35:33 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:45:07 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:45:07 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 13:45:07 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 13:45:07 UTC] デバッグ:クエリ成功
+[04-Apr-2020 13:45:07 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:45:58 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:45:58 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 13:45:58 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 13:45:58 UTC] デバッグ:クエリ成功
+[04-Apr-2020 13:45:58 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:05 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:05 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 13:46:05 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 13:46:05 UTC] デバッグ:クエリ成功
+[04-Apr-2020 13:46:05 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:06 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:06 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 13:46:06 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 13:46:06 UTC] デバッグ:クエリ成功
+[04-Apr-2020 13:46:06 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:09 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:09 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 13:46:09 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 13:46:09 UTC] デバッグ:クエリ成功
+[04-Apr-2020 13:46:09 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:32 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:32 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 13:46:32 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 13:46:32 UTC] デバッグ:クエリ成功
+[04-Apr-2020 13:46:32 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:37 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:37 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 13:46:37 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 13:46:37 UTC] デバッグ:クエリ成功
+[04-Apr-2020 13:46:37 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:40 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:40 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 13:46:40 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 13:46:40 UTC] デバッグ:クエリ成功
+[04-Apr-2020 13:46:40 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:54 UTC] デバッグ:ログイン済みのユーザーです
+[04-Apr-2020 13:46:54 UTC] デバッグ:ログイン有効期限内です
+[04-Apr-2020 13:46:54 UTC] デバッグ:ユーザーを取得します
+[04-Apr-2020 13:46:54 UTC] デバッグ:クエリ成功
+[04-Apr-2020 13:46:54 UTC] デバッグ:ログイン済みのユーザーです

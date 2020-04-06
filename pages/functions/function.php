@@ -150,14 +150,14 @@ function queryPost($dbh, $sql, $data){
   return $stmt;
 }
 //ユーザー取得
-function getUser(){
+function getUser($u_id){
   debug('ユーザーを取得します');
   try{
     $dbh = dbConnect();
-    $sql = 'SELECT * FROM users1 WHERE id = :u_id AND delete_flg = 0';
+    $sql = 'SELECT * FROM users1 WHERE user_id = :u_id AND delete_flg = 0';
     $data = array(':u_id' => $u_id);
     //クエリ実行
-    $stmt = queryPost($dbh, $sql,$data);
+    $stmt = queryPost($dbh, $sql, $data);
 
     if($stmt){
       return $stmt->fetch(PDO::FETCH_ASSOC);
